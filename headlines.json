@@ -1,128 +1,122 @@
 {
   "date": "2026-11-20",
-  "updated": "2026-11-20T04:27:30.363-05:00",
+  "updated": "2026-11-20T19:01:25.195+05:30",
   "stories": [
     {
       "rank": 1,
-      "title": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYV9icmpQUjhFWnc3eDlQVmRHbkdJRmpQY0NjdnRPR3dnVnhzemZoc0I2UDU2eWpaLUQ4WE9iN29VSVhMMHB6Znd6aDE2Y0plTVh6Ny0zVVpWYzh2b0VrWExrNGFrZDVkUnRhVDRQbWFLNjRRaEVvTkIwYkRVeXhkYWx0WGJtelNPdVBRZ0dnQUFPOHPSAZgBQVVfeXFMUGlmbkRNckNXRjlKZEJBWHJuaWxLcEVFcEFtLVd5ZDBocmVqNnAtVG5FNlRCUUZjOHBTZ0NDNTNZQnRVWU9YT09nNm5lNm5Pa3lEMGg1a1h2TXZyekNMNHFoQ0ZJNHYtM01MZm9BcmpkY2tUZmNzMnNHb3g3UGlsN1ZyeFBKNWVjNlpQd2xxUjFTazB5R1NvdW8?oc=5",
-      "score": 10,
-      "summary": "Anthropic pulled off an IPO described as the biggest ever.",
+      "title": "AI Stocks Tumble Across the Globe as Slowdown Fears Mount",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnNEc3dZb2JfSWJYeFFoREFsNXdMS2RyNklRUU9rRUJmajZscVdUTWc5dENvODEwWUQwdHNFcGpPazhndE1MSFJaYnV1Vmota2R5N0YtRVhZS2ZtZmxTZUtnOVgzaXp3X0g5N1hxMExRbFRKWVF4VWJ3OWhqcFVBZlBzWFo0WlVyUTZfZDZSME5WZUsxcEFMbk9ubVlFbWc?oc=5",
+      "score": 9,
+      "summary": "AI stocks tumble across the globe as fears of a slowdown mount.",
       "topics": [
-        "big-tech",
         "markets-business",
-        "startups-funding"
+        "big-tech"
       ]
     },
     {
       "rank": 2,
-      "title": "Goa cabinet approves AI policy, targets training 50,000 graduates by 2030",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEhTYUJZNzBvd0RVdE9GZkc5VU9WXzAwRUFtY3J1QTYxSjFtcjRkM1JCMnlXRWYwZWMyaGE4NFFJTjNiY3NKT1hlM0RRNVRhYjlpQXh2NHJqSzN6OEdxTVJWb0dHcWFHaE8xd05wdkduR3FCOHkwZkx2SEFqVVM0TF9BYzl4QUFvT2ttNXhRU2JzcFlDdTdfSmtabXJlZw?oc=5",
+      "title": "India draws record foreign inflows as AI stocks come under pressure",
+      "source": "Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFpFdTFCZ1psWEJBX1hFNjZ6dUI4TmZmREFOZnU4T3dTbl9kWEktM2ZRVEtIVDduRkNCQkhGbmVkVXhKYjlrRzlXcFdaZzEtbVEySzhMN3ZPSVFRQXZOR3l3YlNac3pCTGgxckV6REgtTUFvY3NsYXVZRzA4R2dBaHZxMXB6RkhzdG0xMURiTk1yZVVqYW9nSzBrSWNjUFN4Q0x3bF9XZGw0dnpKVlR0aWo0Nzc5OUVGWk5RV3JlQms3V2lDUFlOY1Zha3hCWmpnUXJpZw?oc=5",
       "score": 9,
-      "summary": "Goa cabinet approved an AI policy and targets training 50,000 graduates by 2030.",
+      "summary": "India draws record foreign inflows as AI stocks come under pressure globally.",
       "topics": [
         "india",
-        "policy-regulation"
+        "markets-business"
       ]
     },
     {
       "rank": 3,
-      "title": "Google Gemini has learnt to operate a Mac on its own",
-      "source": "UkrMedia News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rN2MxWEw3aDFZNzhHcUs0YmZJNk5EdjR2clNORDF2RlJiX1lnTWJBRVBBQjVxSF96blVZM1RVVk5sS21BVWRYSWdLNzhvYXFEWlkzU2t0QXRsbDk4MGlkNzhoTjVhaGpFOFM1R014TWpOSl9TcG1iTg?oc=5",
+      "title": "Anthropic’s Post-Debut Stumble Delivers Reality Check for AI Trade",
+      "source": "Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0d1N0dDN2Z1UVZkb210bkRNWEpDREtuajhXY0ZyLTBYdG90elRvSWhMRVVoYkIwRHRlLUpYZXJVNF9uN1BUMmtDeVNsaWxYOS1hUktaaEN6XzZuaENMb21YaHhrcDd2WlliallneTNPYmwwMTU2YWoyM3FPcHlnbTFCZ1FjYWxnMGRpX0tEWDFmd1BvSGxVdUpyeDNZSDVJd1VBNzNCLUxmdjF3LWRHLU9DUG1wWkpMa1oyZDV6X0VoYWs2dEFBQdIBzgFBVV95cUxPVWJkWXltc1ZvaWV4ZFprdGQwb0Z5bGVGcGZkcWVsMm1zd1duWW9KS3BWMUx4NWgwbEp5NW8xTmRVdEpMWXNBRG5EaU5jbEpFaTVldXV6cmNXNGhCektRSDduLUhITDBqWVNkdHd4ME93Z2FBWXBrNjk1VnRVcXkzcVNUODBkN2FtVlRvQlRRc3BKcUFNb1h4N0ZCNmp1NGo5V21leUVvVVlyV3JnSEZYaTJFeHZIRmp2MlotdEgxZVp6QjdLQ2xKS2xxMkxxQQ?oc=5",
       "score": 8,
-      "summary": "Google Gemini has learned to operate a Mac on its own.",
+      "summary": "Anthropic’s post-debut stumble delivers a reality check for the AI trade.",
       "topics": [
-        "ai-models",
+        "markets-business",
         "big-tech"
       ]
     },
     {
       "rank": 4,
-      "title": "SatSure targets ₹200 cr in Series B to expand satellite and AI capabilities",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmQ1NWNURGpGQm5QMnVuWnJuM1NMTTRkYnFPRGMwQ0FfNnM3djN5Ymg4S29ZcTg5YkxUbThOMEtNYWo0S0w4a25TaGRTcGh3YUtjZDJnS1JBT184eERaOFJoamtaUGJwYldfNlRGMzFpck9oaEZiRnhwTklYNDNiRndjTkZEYnBIMHBKTmhPeDZLazd0X2pEUDlWRTVBbEYzSVU4YkdrSnN1dUliOUs2cGYwckRfNXlpczhMalFaa3RJd0xITUxDZXZUVlBqMlAyenNSeVFoWWZvUmZfVUHSAd4BQVVfeXFMTXJkNTVjVERqRkJuUDJ1blpybjNTTE00ZGJxT0RjMENBXzZzN3YzeWJoOEtvWXE4OWJMVG04TjBLTWFqNEtMOGtuU2hkU3Bod2FLY2QyZ0tSQU9fOHhEWjhSaGprWlBicGJXXzZURjMxaXJPaGhGYkZ4cE5JWDQzYkZ3Y05GRGJwSDBwSk5oT3g2S2s3dF9qRFA5VkU1QWxGM0lVOGJHa0pzdXVJYjlLNnBmMHJEXzV5aXM4TGpRWmt0SXdMSE1MQ2V2VFZQajJQMnpzUnlRaFlmb1JmX1VB?oc=5",
+      "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXZ0Vi1IRk51T2JVaEwxNTgxbEtLamVRaVl4M0dEZ012OWZjSGI1UWFUbU0tWmVLdWRycEJxZklqVzFaNEw5N2xGOEpORWxHRnlBaEtaaXBZWDJ1blBDX1FvYXJHRjZqOGFEcGRwb09UdElVbUMyMEJlUnctOExnSEw3Qk9jNmFNd1UtaEx6VDU1THNP?oc=5",
       "score": 8,
-      "summary": "SatSure targets 200 crore rupees in Series B to expand satellite and AI capabilities.",
+      "summary": "SpaceX sells $32 billion of AI chip debt at yields topping 8%.",
       "topics": [
-        "india",
         "startups-funding",
-        "ai-models"
+        "chips-hardware"
       ]
     },
     {
       "rank": 5,
-      "title": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
+      "title": "Telangana tech funding surges 266% to $726 million, but fewer startups raise capital",
+      "source": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQekRnVnkydm9TQ0RQMHk0b1BidUg0Rl9iMzMyLTBuQWtpVFAxbWZrSkpaLS04Znp2bzNBa2R0NGxNUG9aZlppa19DZEw5VTdFQzNpZ25zZVNIR05qeXBTUXNBaTg4bGNnczVKM1ZQNnV3eFlNZ0xUeFVpSmlNQlhjMmhPbFZwSFFma1lTRGN4VlJna3ZCbFhvZG9nbDN3VjJlb21MM3BqWWg4d2hLZ3dtTDJfVTI3SWw5aHRwRWJndGF2bUczMW5GVm1pNNIB2AFBVV95cUxOalJFbzROSWVJczlGajVvR0FNSjRtR3hWb0prN3c3YWt2aEFqbkRLQTNENUtRajdtVFV0WFBqMlIxclhYcEs0X09SdndDTVU0eDZQV1hySzEtZmpnOUNpTGlBTzA5VF9rb25KcmhjdkY5RWFaYXRDaFFiTjFqWkRRNWMtWFd3SVBmaEI3VkozbjNKZTNfN1FLeTF6RGFWRzhGcWlNTHd0Q2N4UzJnNTk0RC1RbkhiMG1JcW9NeElFVDRhX29FZVhDX0pCWG9zbUwwVU83T0o3dDU?oc=5",
       "score": 8,
-      "summary": "Nestle is teaming up with Microsoft and Boston Dynamics on AI in factories and products.",
+      "summary": "Telangana tech funding surged 266% to $726 million while fewer startups raised capital.",
       "topics": [
-        "big-tech",
-        "ai-models",
-        "markets-business"
+        "india",
+        "startups-funding"
       ]
     },
     {
       "rank": 6,
-      "title": "Egyptian AI Startup Chipverse Secures Pre-Seed Funding to Expand GPU Infrastructure and Launch AI Tools",
-      "source": "Tech In Africa",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzFzMDRKVVJDQUFVX1c4bGtORGNlanpOWXo0UlE2eGVFZ0NXTC1SY0JRdFZkem05SXRxUDBMQ2s1MUd5d20tUzdjeWRaWnh4LXFfdGQ4NlNzUTZhM2Vjbmdxc3F3ZnY0QW8yaU5nV0RCaUw2dFJiS1ZXY3RHY2hqUEJ1b0FNby1SZnk2WDFWS2lINjUtUERlRVRoTWJwTXg0TEdBMHk3V1l3dFo5LXFmNWZmdWp5QW9KTUwzZThCMjRnTkdQdHFieHRQeG9vQQ?oc=5",
+      "title": "AI may replace human workers across industries by 2027, warns Anthropic researcher",
+      "source": "Education Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOV9aSlNreVVLVE9EeXplZlBZdGtfeG5qZ1pjOVJKcGVaVllMWVl4czBvZl9DMDdzNkNYZGMtaTlwMTRna2lSVkdIYjNPODJqUVhBZW5FbnRPVzVpcTJCM2ZKVUVTNmFWTzJfdzZIQVF3QmVtTWdYNUhJc1h1N3I2c3RJYTU1WXM0aUxXR1NqOHJFUXd6R083d084Q0F0c3d2Mi1KemFBU3RkNk1CVlg0UnNIeVZqemlvU21RbjZwdW9kd2hZRzYzLTdqakhiOHFaX0lCVHBpaHN2VDZ0R0s1Wg?oc=5",
       "score": 7,
-      "summary": "Egyptian AI startup Chipverse secured pre-seed funding to expand GPU infrastructure and launch AI tools.",
+      "summary": "An Anthropic researcher warns that AI may replace human workers across industries by 2027.",
       "topics": [
-        "startups-funding",
-        "chips-hardware",
         "ai-models"
       ]
     },
     {
       "rank": 7,
-      "title": "Hierarchical Language Model Evaluates Full Business Plans to Forecast Startup Viability",
-      "source": "Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkZXZ1dUMWpQWHBrOV91Qjg1WnBrSXp6S05LVm13ZG5FTU1mbGEtUDM2QmdGWUw0MUNrLXBLTGlDQ1pqRU92THFqbHBHcEt6TTFMRC1HSVhJX3QzbUY1TlZMMHJueTZoWUREZ0RKRVgzclBvSHppbVFRUGY1bU9zbVp3dzBsT3pUSTJSYUdXQjdyNVk4NUJzbm1TdzlWT0l2NUNsS3V4NDRzUmk5OEdHdWhB?oc=5",
+      "title": "NHAI’s AI tool to monitor road damage, follow-up complaints with contractors",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWpLTDZ6bGNiMGNudXN5b01IenliRm5McUxSSGhmTDVSTE5MTjFIdGxaNzI2c016cVBTcU5PbmllYlhyc3p0ZUI3bFBLMGNFY0FINEpPZ2dtSWdJOVRFbFQwcnljbDlYVEtXX0JsSkpuTUYzUHFxd1drSXBPZ3JCeUZZdmNoYmstYUJSUU9iV3g3YzRQZmVtNlA2U2dKSGlWRU1Na0l0Y3NMM3BCNlk4b2doSXlnR1JJazd1MWxEOV9tbTRmVFFndmlLbi1lYXp5V09wQS1CdkxwVW_SAeIBQVVfeXFMT0ljRWNGUTBSWEFkU0Utd2tTbU5fdmh3dVFId2VQZDRWdWlEbWNMS1RBbXhNSVc2eEJlVzlqdHQ0SF91WTdBQkV6TVdvZ1BMTXlQR1N2eExUeHJOczV4Q0xaVmlPeEs5NDZKVGJKVklJZk9Zc09JdFU3d0VpbWxHMEhWWUJ3OTc5ZkRlT3VyOEN6azZtWUVaZFhKNjE0TzlFcEszUFgyYTJldVBSRE1MdERXVmhmYWRwemZsZ2x3cU11bl9ybW1weWZOc2ZFbGlEN2JERE00LXcxWllXQWJwTFBVUQ?oc=5",
       "score": 7,
-      "summary": "A hierarchical language model evaluates business plans to forecast startup viability.",
+      "summary": "NHAI’s AI tool monitors road damage and follows up on complaints with contractors.",
       "topics": [
-        "ai-models",
-        "research"
+        "india",
+        "ai-models"
       ]
     },
     {
       "rank": 8,
-      "title": "Hexaware expects return to stronger growth in 2027 as AI adoption picks up",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZlhOeHhhOFptRGVMaXVjMV9lMEZpejVyalM1SjViWXJvTFY5WWg0YzVmSzdMcWVINWhlRkwxamZvLUZhamYwZlllV0hzeUVDalQ1TkNOYkNFRHJHckM5V0dYZ3g3WnpSRWZOUmZLVGYzMHRjWk56UTREXzM1enRPaC1uckMyczR1VmR1Y0p4enZPQ2VYQlhTbXgxTGx0Y2pLSWdWNWxSTnhQMWNhUE5rYUNBMEMwNGFYS2I1US1hTXR4QUVsazRGY1pEcXBTUWVFS1hTUGVpOUFaSTdBRlJfOVZEMjJ3TUXSAewBQVVfeXFMTTFhbGdnSmpUNXRRWEluOVE3R3FxZ2xzMDJfNGt1VmdxaGY4OEtMck5mdGJtV2FIUW43emFMUmdOa04zZzJyM3pSYkZpMXR4U0FYbWJzMThKUVVwOVg5RUhiVE02WUV5ZC1zaGJFeDhhRDFUcVU5aFJFUUZIelNQUms0NEtuS3lhQlVRMW50c25tT3BlLXh3ZTZTYnFmQS1iWi1NQnZJUC1NMV9ySlpwaV9CVjZ6RGNTZDJ6TnBRYjZxVTE2NlFONl9tejktd3JPMG9vbUxnUkpyLVFYWGFzZFpiRDd3a3BJLUdGanY?oc=5",
+      "title": "This startup is turning chicken feathers into biodegradable plastic that could boost crop yields by 40%",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQVBFTWwzak1hNEdfYVk2eEpWYkJ1dFBFWW51QUFBeElzVHFMSXF5X2hoM0ZjWWhxWnlZRld3R3FQcWYwQ3E4OXJqamlKZ0FiZjZpZVEzRGRwamJ6bXRsTk1pTUFGSlFzM2NDbWFKbEM2ajJpVG1XYmxPOUpMVzN0U1pxLXVTaVdyUThrN1JIMHZtTzJKUHRwbU9VNkx4VWJJN2JaRXBYelptZnpQUzNKaEl5b3NnVVQ5YjE0NkVhbnFiNlBzNmxubmhTYkhpUVlwZlRRcVpYbEhCYTkwLTRNZEtiR21yc2t5ZkItN2dWSnMyV0ZyRVHSAfsBQVVfeXFMT0ZUck9PWEd6RUx2UXlZZ09vcllpcVV2VHNzOHBrMjdLVldpRDh3RWFvVGhVUkhfYVZINHQycGRaNEszVVpkenRISHBwVDlhTW1XRTNwS2FuSTZXRTNQbTVwNWRnelFDQlhBVDI2OENsZ2trcWxaMUJRMWRhYVFPU2t3TjFzS3k3c0xTUmVlMktzQVlMOW1vbG1DTFFqa29Ea1Q4VUxFa1o1WksxaEl6bDlOZlAwTm9henR1QjBsc1ZwSE1tQWI4RXZtaFIwNlYxZmk2a25Zd0o5dnVzcGdBUFh5V0lLYzZkSDQ1R1o2YWtwNUlxWkVOTTMtUnM?oc=5",
       "score": 7,
-      "summary": "Hexaware expects a return to stronger growth in 2027 as AI adoption picks up.",
+      "summary": "A startup is turning chicken feathers into biodegradable plastic that could boost crop yields by 40%.",
       "topics": [
-        "india",
-        "markets-business"
+        "startups-funding"
       ]
     },
     {
       "rank": 9,
-      "title": "AI investment slowdown unlikely to derail US growth, says report",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbTNHNTlzSVhHMFY1UURPN3RwbDVsSjdfWEVDMWNQY1pvZzZ3NzQ3dmNpTm9ZMjRpRzh1UkRTTWlEX3NPOXFsZ2lsdlBrQUdVMndlQ2FKaEdzQ3g5dHR4TW5DMS1tSG9COTJlQk41dkpCcDdiM3R1dGNiVEF5NGxCYmV1dkMxejdaS3ktbG4yc2F2OHE1Uk5uLXhhTmF4NzJOMHpxSkpkVGhTeTVSMXE0bGNJbkFPZC1OYS1WakM0cmVscFZYWXIyVUtYaTJUekgw0gHaAUFVX3lxTE1hSHd0YVdoVXpZbFl1QU1VSFpXb1I0akVMMmxwNlVNdVNIdEs2bEI0ZzQybldmTllyelZ5eEVuY01Tc0lWbHNsOEJjTWFKcndtQlhwX01hdm5YQ3VUNkZvNVJ3cm5PZXlIcVR5Z1hnenREQ1FXemF0cmNLR1cxMkkxRnJvY3FzVm51ZU5sYlo2ZGZUNC11ZGZpdVh3aE5BaWdvd0VKeFJieUlhWE5RYlVqNHoxeVJlYUNtZXhlRVNmMXdkbkZJRTZVOGFGZE1Id2hYaU1qTUViaDln?oc=5",
+      "title": "NYC Startup Funding: Series A Deals Fall to 44 From 82 as 16 Mega-Rounds Take 61% of Q3 Cash",
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmR4ZG1MbmtEUUNFQVl4aWxDQnJsMEpzeDBrQ2RRZXk0b3ZqdlQ5OFhMWGpaS3N3aDRmSXhQT3VkWXpCYjhCN3JhTWZQV28wMV96aUI2ekx6cjhlWHItdnR4bmJWN29tVkZUeExfblpIakc1NE5wbFY2c3RWZGN0SXF3dFpacG9HbnRuUkxBWTFvSU8yRkJ4cnhlVS1VcE9nZ1NpTS1hMFdRVndMU0Y0c0VGUHM4SHJWZV9mdE9ONGp3SU5EQzI2MA?oc=5",
       "score": 7,
-      "summary": "A report says an AI investment slowdown is unlikely to derail US growth.",
+      "summary": "NYC Series A startup deals fell to 44 while 16 mega-rounds took 61% of Q3 cash.",
       "topics": [
-        "markets-business"
+        "startups-funding"
       ]
     },
     {
       "rank": 10,
-      "title": "India steps up cyber drills, sensitises top leadership amid AI-led threats",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa3R0TTBDUl9JdkdERk9ZZjlweHF6a1U4UV9KOGRlUVJNNFZjT1NPTFlaYlpDTUs1aXUyUUxEa0hYc2ZNUTNHbzZ1YmRYNGJNN3kzM1daRUIzT09uelhZMEpYTklXenFqWmZJd2ZiZkl4Z29JQWlPQWZHdmNHM2NfM1BsR0J2TkE4UlV5UFY1aEt0bjdOcmRhUzhqWEJfdWVHYVdkSmMtTHprNkxqWjBzSWtFNzA2SXVxWjVLbkpoM2w0QXdhaU1SY2Y2cW56RlhUejBCeTBWckRpWjhkT0xSOXV30gHnAUFVX3lxTE1Lam10VWotWUJpWVNZQXI1cDZUY3lnOElORi13SUszM2NYTGR6Z1N3bWVqR1BhRVF4bzV3R0x6bVI0b05nNFJtU1JBRFRhWnNqRzk5UzRyMHUwV2R2ak5BM1RKMXF4ZGQ5MFNXdHN2MGVDV0dINGx4aElsZ0dHUkROSFBfc0Z6S292OW1ZNnpjZ2paV19ucTJwMDF4NmRabGllUEx4cVc5bXZiUENZMVg0VnJPVHVtMUhDVGdIUEVENXp2WWpIUGpTYWY3TXJCODdlVnlIUERLQVRHcFR2ZGNUd2E4VE5ESQ?oc=5",
+      "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5",
       "score": 7,
-      "summary": "India is stepping up cyber drills and sensitising top leadership amid AI-led threats.",
+      "summary": "Big Pharma reports that AI is shrinking drug discovery timelines.",
       "topics": [
-        "india",
-        "security"
+        "ai-models",
+        "markets-business"
       ]
     }
   ]
