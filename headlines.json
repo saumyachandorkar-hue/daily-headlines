@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-19",
+  "updated": "2026-11-19T02:40:00.000Z",
+  "stories": [
+    { "rank": 1, "title": "Anthropic clinches biggest IPO ever with $81 billion offering", "source": "DD News", "link": "https://news.google.com/", "score": 10, "summary": "Anthropic clinches the biggest IPO ever with an $81 billion offering.", "topics": ["ai-models", "markets-business", "big-tech"] },
+    { "rank": 2, "title": "IIT Delhi grad quits Google after clearing family's Rs 1 crore debt, his AI startup raises $400,000", "source": "Moneycontrol.com", "link": "https://news.google.com/", "score": 9, "summary": "An IIT Delhi grad quits Google and his AI startup raises $400,000.", "topics": ["india", "startups-funding", "ai-models"] },
+    { "rank": 3, "title": "Style Union Secures Rs 485 Cr Funding Led by Venturi and Elev8 Partners", "source": "Indian Retailer", "link": "https://news.google.com/", "score": 8, "summary": "Style Union secured Rs 485 Cr funding led by Venturi and Elev8 Partners.", "topics": ["startups-funding", "india"] },
+    { "rank": 4, "title": "Lenovo posts 48% revenue jump on AI-related sales, beating estimates", "source": "Reuters", "link": "https://news.google.com/", "score": 8, "summary": "Lenovo posts a 48% revenue jump on AI-related sales and beats estimates.", "topics": ["big-tech", "markets-business", "chips-hardware"] },
+    { "rank": 5, "title": "Google detects first AI-powered autonomous cyberattacks, linking them to Russia, China, Iran, and North Korea", "source": "Escudo Digital", "link": "https://news.google.com/", "score": 8, "summary": "Google detects first AI-powered autonomous cyberattacks linked to Russia, China, Iran, and North Korea.", "topics": ["security", "big-tech"] },
+    { "rank": 6, "title": "India steps up sovereign capital push to build its deep-tech ecosystem", "source": "Business Standard", "link": "https://news.google.com/", "score": 8, "summary": "India steps up its sovereign capital push to build its deep-tech ecosystem.", "topics": ["india", "policy-regulation", "startups-funding"] },
+    { "rank": 7, "title": "Sarvam faces backlash for offering Chinese AI models on its platform", "source": "Business Standard", "link": "https://news.google.com/", "score": 7, "summary": "Sarvam faces backlash for offering Chinese AI models on its platform.", "topics": ["india", "ai-models", "startups-funding"] },
+    { "rank": 8, "title": "Trump rejects 'globalist regulation' of artificial intelligence at APEC summit", "source": "TRT World", "link": "https://news.google.com/", "score": 7, "summary": "Trump rejects 'globalist regulation' of artificial intelligence at the APEC summit.", "topics": ["policy-regulation"] },
+    { "rank": 9, "title": "South Korea's Startup Grants Restrict Payments for Overseas AI Tools", "source": "THE ELEC, Korea Electronics Industry Media", "link": "https://news.google.com/", "score": 6, "summary": "South Korea's startup grants restrict payments for overseas AI tools.", "topics": ["startups-funding", "policy-regulation", "ai-models"] },
+    { "rank": 10, "title": "MAS explores AI agent protocol and tokenisation framework", "source": "Singapore Business Review", "link": "https://news.google.com/", "score": 6, "summary": "MAS explores an AI agent protocol and tokenisation framework.", "topics": ["policy-regulation", "ai-models"] }
+  ]
+}

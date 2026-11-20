@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Daily AI and Business Headlines</title>
+  <meta name="description" content="Ten AI and business stories a day, picked and ranked automatically.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <p class="site">Daily AI and Business Headlines</p>
+    <h1 id="page-date">Loading today's stories</h1>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <main>
+    <div class="filters" id="filters" role="group" aria-label="Filter stories by topic"></div>
+    <p class="count" id="count" aria-live="polite"></p>
+    <p class="message" id="message" hidden></p>
+    <ol class="stories" id="stories"></ol>
+  </main>
+
+  <footer class="foot">
+    <p>Stories are collected from public news feeds, scored by an AI model, and refreshed every morning.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
