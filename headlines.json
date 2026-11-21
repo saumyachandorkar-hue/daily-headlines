@@ -1,122 +1,122 @@
 {
-  "date": "2026-11-20",
-  "updated": "2026-11-20T19:01:25.195+05:30",
+  "date": "2026-11-21",
+  "updated": "2026-11-21T09:01:32.647+05:30",
   "stories": [
     {
       "rank": 1,
-      "title": "AI Stocks Tumble Across the Globe as Slowdown Fears Mount",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnNEc3dZb2JfSWJYeFFoREFsNXdMS2RyNklRUU9rRUJmajZscVdUTWc5dENvODEwWUQwdHNFcGpPazhndE1MSFJaYnV1Vmota2R5N0YtRVhZS2ZtZmxTZUtnOVgzaXp3X0g5N1hxMExRbFRKWVF4VWJ3OWhqcFVBZlBzWFo0WlVyUTZfZDZSME5WZUsxcEFMbk9ubVlFbWc?oc=5",
-      "score": 9,
-      "summary": "AI stocks tumble across the globe as fears of a slowdown mount.",
+      "title": "Officials approved the sale of 580,000 Nvidia chips to Chinese companies",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTNWdm5ZVVFLUDV0SDQtRy1KMzV3dlVUVDg5aTJaMXNZTXpxRmY4Z3VKUFA2dVhKclpKbml2MjQxZmdLdEgyMGE2dkRzdnJnSzRkU0ItdVNuSnpVMHhSeHdzZXM3Y2ZJaGZsVzJ2cVRWTFNZWGlmckVxcUk1eTNSdzVZZ0hnNDE0cHlsblcxVGJuNnYtTUMwNFpISUktUGNyMWZlTGRwWlV0QW5kN3ZWV0wxNnRYQQ?oc=5",
+      "score": 10,
+      "summary": "Officials approved the sale of 580,000 Nvidia chips to Chinese companies.",
       "topics": [
-        "markets-business",
-        "big-tech"
+        "chips-hardware",
+        "policy-regulation"
       ]
     },
     {
       "rank": 2,
-      "title": "India draws record foreign inflows as AI stocks come under pressure",
-      "source": "Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFpFdTFCZ1psWEJBX1hFNjZ6dUI4TmZmREFOZnU4T3dTbl9kWEktM2ZRVEtIVDduRkNCQkhGbmVkVXhKYjlrRzlXcFdaZzEtbVEySzhMN3ZPSVFRQXZOR3l3YlNac3pCTGgxckV6REgtTUFvY3NsYXVZRzA4R2dBaHZxMXB6RkhzdG0xMURiTk1yZVVqYW9nSzBrSWNjUFN4Q0x3bF9XZGw0dnpKVlR0aWo0Nzc5OUVGWk5RV3JlQms3V2lDUFlOY1Zha3hCWmpnUXJpZw?oc=5",
+      "title": "Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it",
+      "source": "The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8?oc=5",
       "score": 9,
-      "summary": "India draws record foreign inflows as AI stocks come under pressure globally.",
+      "summary": "An Anthropic researcher says Claude may have solved a 167-year-old maths problem.",
+      "topics": [
+        "ai-models",
+        "research"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Dow, S&P 500 enter correction as Nasdaq plunges in AI stock sell-off",
+      "source": "upi",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0dZWG1SVm5SaEVhQ210NU9hbURrdXRxOGZ0eHlWaTBvSUV4UlZCZmsycFVaVm1WMU5MaXBoT3FzZHowd0Y4eVZoanBoNjVOSUNYZHRvNDFsY3BhYldpckRSa2FSOHdwdEZ0cktLYVZ5SjctdVRGSDdsdVhLTEVoMFJPbzQ0eE91SHRlY1VpZ0ktZU9wc2ZWMUFNZ3NWZk5ZYk0teNIBqgFBVV95cUxNbWFQbGR6ZHRyUmI0VTdmRlJNdlMxQjg3QzFfcjh6UGhra2NEMHdDaTkyejVVZHBEMDUxY0FVV1ZOaUw4aHg2N2U4dGhNTFB2SjdRLUMxRlZrWHRTTVZ5clpUTHhRSGQ5UDhlSjFlUHFxd1c2alR5YURVNm5xVHZPdVBIeGFXYVM2VDdkM0FTaDJhNGxmVlhUMUhOcWFzZXRsVGZha0hUajdOZw?oc=5",
+      "score": 8,
+      "summary": "The Dow and S&P 500 entered correction as the Nasdaq plunged in an AI stock sell-off.",
+      "topics": [
+        "markets-business"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI. Autonomous. Agile. Atmanirbhar. The future of Indian business is being driven by bold ideas, technological innovation and leaders who are transforming vision into enterprise and ambition into impact. On Architects of Viksit Bharat, join Vishal Makar, Orienta",
+      "source": "Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONndFTFNIYURRQ2VkRlJfV1VJcGlTZzROS3hBZF9veHhwNnowOVB0Qnh0SHhOSlFSQnJJa3VQbENaSkdramZ6WV9fdGxaTHRKZnI1bW90OVZiZjh2LWRuQWlWVDFqUU5Pd19ya2RpM19WZE5HZFQ5c2I2bmwwc21rTjBUQm82VW1pa2M0UGw3UE5WWUxpYTMwbGY5RkQzNFlIZVE1aXJhaE5NbUZHR2RQV3ZnUHlnSm5XQ3h1dVc3b3ZxOWJtTU1YZ3ZXWEVxX25tZlBHdjRVcWQxQ3M?oc=5",
+      "score": 7,
+      "summary": "Innovation and leadership drive the future of Indian business on Architects of Viksit Bharat.",
       "topics": [
         "india",
         "markets-business"
       ]
     },
     {
-      "rank": 3,
-      "title": "Anthropic’s Post-Debut Stumble Delivers Reality Check for AI Trade",
-      "source": "Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0d1N0dDN2Z1UVZkb210bkRNWEpDREtuajhXY0ZyLTBYdG90elRvSWhMRVVoYkIwRHRlLUpYZXJVNF9uN1BUMmtDeVNsaWxYOS1hUktaaEN6XzZuaENMb21YaHhrcDd2WlliallneTNPYmwwMTU2YWoyM3FPcHlnbTFCZ1FjYWxnMGRpX0tEWDFmd1BvSGxVdUpyeDNZSDVJd1VBNzNCLUxmdjF3LWRHLU9DUG1wWkpMa1oyZDV6X0VoYWs2dEFBQdIBzgFBVV95cUxPVWJkWXltc1ZvaWV4ZFprdGQwb0Z5bGVGcGZkcWVsMm1zd1duWW9KS3BWMUx4NWgwbEp5NW8xTmRVdEpMWXNBRG5EaU5jbEpFaTVldXV6cmNXNGhCektRSDduLUhITDBqWVNkdHd4ME93Z2FBWXBrNjk1VnRVcXkzcVNUODBkN2FtVlRvQlRRc3BKcUFNb1h4N0ZCNmp1NGo5V21leUVvVVlyV3JnSEZYaTJFeHZIRmp2MlotdEgxZVp6QjdLQ2xKS2xxMkxxQQ?oc=5",
-      "score": 8,
-      "summary": "Anthropic’s post-debut stumble delivers a reality check for the AI trade.",
-      "topics": [
-        "markets-business",
-        "big-tech"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXZ0Vi1IRk51T2JVaEwxNTgxbEtLamVRaVl4M0dEZ012OWZjSGI1UWFUbU0tWmVLdWRycEJxZklqVzFaNEw5N2xGOEpORWxHRnlBaEtaaXBZWDJ1blBDX1FvYXJHRjZqOGFEcGRwb09UdElVbUMyMEJlUnctOExnSEw3Qk9jNmFNd1UtaEx6VDU1THNP?oc=5",
-      "score": 8,
-      "summary": "SpaceX sells $32 billion of AI chip debt at yields topping 8%.",
-      "topics": [
-        "startups-funding",
-        "chips-hardware"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Telangana tech funding surges 266% to $726 million, but fewer startups raise capital",
-      "source": "Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQekRnVnkydm9TQ0RQMHk0b1BidUg0Rl9iMzMyLTBuQWtpVFAxbWZrSkpaLS04Znp2bzNBa2R0NGxNUG9aZlppa19DZEw5VTdFQzNpZ25zZVNIR05qeXBTUXNBaTg4bGNnczVKM1ZQNnV3eFlNZ0xUeFVpSmlNQlhjMmhPbFZwSFFma1lTRGN4VlJna3ZCbFhvZG9nbDN3VjJlb21MM3BqWWg4d2hLZ3dtTDJfVTI3SWw5aHRwRWJndGF2bUczMW5GVm1pNNIB2AFBVV95cUxOalJFbzROSWVJczlGajVvR0FNSjRtR3hWb0prN3c3YWt2aEFqbkRLQTNENUtRajdtVFV0WFBqMlIxclhYcEs0X09SdndDTVU0eDZQV1hySzEtZmpnOUNpTGlBTzA5VF9rb25KcmhjdkY5RWFaYXRDaFFiTjFqWkRRNWMtWFd3SVBmaEI3VkozbjNKZTNfN1FLeTF6RGFWRzhGcWlNTHd0Q2N4UzJnNTk0RC1RbkhiMG1JcW9NeElFVDRhX29FZVhDX0pCWG9zbUwwVU83T0o3dDU?oc=5",
-      "score": 8,
-      "summary": "Telangana tech funding surged 266% to $726 million while fewer startups raised capital.",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill | Amazon Web Services",
+      "source": "Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3h3dEMxajVfSHBOSDFvVDdMeGhBOXVtUU0wUzk0MUhHNjlBTVZzZ2ZqNDA2bm5xXy1OSEdqejNSV3kzLVU4dllOdmlwaTMyZmdnazVwd0dMdHVEamZRX1dYSXhwWXVFNV9uSFJoa001WUpKWWVfWFliN3I0Mm5FM2VRQWN4aVFBa1kyTlVDQTVHTGdPRC0xSWVQa3c5X2tOMXJXOXVyUUl1Y1VOQnV3VXNuRl9sLTBnN3VJWHd1TmNBWlM2cXc?oc=5",
+      "score": 6,
+      "summary": "Amazon Web Services provides a distributed KV caching agent skill to cut self-hosted model costs and latency.",
       "topics": [
-        "india",
-        "startups-funding"
+        "big-tech",
+        "ai-models"
       ]
     },
     {
       "rank": 6,
-      "title": "AI may replace human workers across industries by 2027, warns Anthropic researcher",
-      "source": "Education Times",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOV9aSlNreVVLVE9EeXplZlBZdGtfeG5qZ1pjOVJKcGVaVllMWVl4czBvZl9DMDdzNkNYZGMtaTlwMTRna2lSVkdIYjNPODJqUVhBZW5FbnRPVzVpcTJCM2ZKVUVTNmFWTzJfdzZIQVF3QmVtTWdYNUhJc1h1N3I2c3RJYTU1WXM0aUxXR1NqOHJFUXd6R083d084Q0F0c3d2Mi1KemFBU3RkNk1CVlg0UnNIeVZqemlvU21RbjZwdW9kd2hZRzYzLTdqakhiOHFaX0lCVHBpaHN2VDZ0R0s1Wg?oc=5",
-      "score": 7,
-      "summary": "An Anthropic researcher warns that AI may replace human workers across industries by 2027.",
+      "title": "Artificial Intelligence Matches Expert Performance in Tuberculosis Radiography and Genomic Diagnostics",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkpsOTU3MWl1QkFpQXhyQTVpZjdTa0VqamRDU0tvZUhCcU9JbEhKN1JaREtyYVQ5bXlnVkZFZWxoWElVY0pmcEFvckVmU1BxOXJTY184cEo0NzJ0Ni1UaTNZMnYzY2NRNGdlV3JzU3kxbVJnWGZWQzV5Y0xDcW9SY0xpQk5rYkE3WFBfOHZMTXZOMFhXNjh0MlR3eFVVTk8xVHo3UEtleVhnd0IxUXZoUzNmdVRvSzhrbTdTMmszNjBiOVFpS0E?oc=5",
+      "score": 5,
+      "summary": "Artificial intelligence matches expert performance in tuberculosis radiography and genomic diagnostics.",
       "topics": [
+        "research",
         "ai-models"
       ]
     },
     {
       "rank": 7,
-      "title": "NHAI’s AI tool to monitor road damage, follow-up complaints with contractors",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWpLTDZ6bGNiMGNudXN5b01IenliRm5McUxSSGhmTDVSTE5MTjFIdGxaNzI2c016cVBTcU5PbmllYlhyc3p0ZUI3bFBLMGNFY0FINEpPZ2dtSWdJOVRFbFQwcnljbDlYVEtXX0JsSkpuTUYzUHFxd1drSXBPZ3JCeUZZdmNoYmstYUJSUU9iV3g3YzRQZmVtNlA2U2dKSGlWRU1Na0l0Y3NMM3BCNlk4b2doSXlnR1JJazd1MWxEOV9tbTRmVFFndmlLbi1lYXp5V09wQS1CdkxwVW_SAeIBQVVfeXFMT0ljRWNGUTBSWEFkU0Utd2tTbU5fdmh3dVFId2VQZDRWdWlEbWNMS1RBbXhNSVc2eEJlVzlqdHQ0SF91WTdBQkV6TVdvZ1BMTXlQR1N2eExUeHJOczV4Q0xaVmlPeEs5NDZKVGJKVklJZk9Zc09JdFU3d0VpbWxHMEhWWUJ3OTc5ZkRlT3VyOEN6azZtWUVaZFhKNjE0TzlFcEszUFgyYTJldVBSRE1MdERXVmhmYWRwemZsZ2x3cU11bl9ybW1weWZOc2ZFbGlEN2JERE00LXcxWllXQWJwTFBVUQ?oc=5",
-      "score": 7,
-      "summary": "NHAI’s AI tool monitors road damage and follows up on complaints with contractors.",
+      "title": "As brands increasingly use artificial intelligence, controlling consumer data is becoming a business priority",
+      "source": "Revista Merca2.0",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnZXdUFwNHlPWmNqTlRYN3lIUktqcERxbUFkQ3FEb0JhSmVzeWQxWlVqbVBON2lhNlJwZnlHLURWVS0zU2s0VGhNenZEYnVDQ044R0dqeHpSY3YtNjMwN3hYYWxpYS1HNWhUS3RNS01SREtoYzJfVXh5eEtybUU3YXN4RlhVeTFGS1NEd1FWYWUtSW85UGV0RFNWSWw1ZHFqZWFESW9sZ2JERm0tcjFWdThvc0RNR3J3akdqZmU0S2FSOG42TFU0VjFWcWlhQQ?oc=5",
+      "score": 5,
+      "summary": "Controlling consumer data is becoming a business priority as brands increasingly use artificial intelligence.",
       "topics": [
-        "india",
-        "ai-models"
+        "markets-business",
+        "security"
       ]
     },
     {
       "rank": 8,
-      "title": "This startup is turning chicken feathers into biodegradable plastic that could boost crop yields by 40%",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQVBFTWwzak1hNEdfYVk2eEpWYkJ1dFBFWW51QUFBeElzVHFMSXF5X2hoM0ZjWWhxWnlZRld3R3FQcWYwQ3E4OXJqamlKZ0FiZjZpZVEzRGRwamJ6bXRsTk1pTUFGSlFzM2NDbWFKbEM2ajJpVG1XYmxPOUpMVzN0U1pxLXVTaVdyUThrN1JIMHZtTzJKUHRwbU9VNkx4VWJJN2JaRXBYelptZnpQUzNKaEl5b3NnVVQ5YjE0NkVhbnFiNlBzNmxubmhTYkhpUVlwZlRRcVpYbEhCYTkwLTRNZEtiR21yc2t5ZkItN2dWSnMyV0ZyRVHSAfsBQVVfeXFMT0ZUck9PWEd6RUx2UXlZZ09vcllpcVV2VHNzOHBrMjdLVldpRDh3RWFvVGhVUkhfYVZINHQycGRaNEszVVpkenRISHBwVDlhTW1XRTNwS2FuSTZXRTNQbTVwNWRnelFDQlhBVDI2OENsZ2trcWxaMUJRMWRhYVFPU2t3TjFzS3k3c0xTUmVlMktzQVlMOW1vbG1DTFFqa29Ea1Q4VUxFa1o1WksxaEl6bDlOZlAwTm9henR1QjBsc1ZwSE1tQWI4RXZtaFIwNlYxZmk2a25Zd0o5dnVzcGdBUFh5V0lLYzZkSDQ1R1o2YWtwNUlxWkVOTTMtUnM?oc=5",
-      "score": 7,
-      "summary": "A startup is turning chicken feathers into biodegradable plastic that could boost crop yields by 40%.",
+      "title": "NextEra’s AI Saves Florida Customers $20 Million",
+      "source": "PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWVyWnV1MTNWTTk3V3N1eVR1ZHlEV1ZUcTUxaElKUno3UU1ZTDVOcWUxYXh1RENDRXdGZkVJUkpkVE0wOTA5WVEwSmo5azhHUDF5TVR3TXp0emV0ZXRQWUV6YUc3Z2RIWkdEMG9NZ1l5RnRfU3RwaWZXUWJUb3hpblZrZzdsOFVMT01STVN2Y3Z2eFpJR1VOMFZnc2NkLUZ1Sl9LczhLcw?oc=5",
+      "score": 5,
+      "summary": "NextEra's artificial intelligence saved Florida customers $20 million.",
       "topics": [
-        "startups-funding"
+        "markets-business"
       ]
     },
     {
       "rank": 9,
-      "title": "NYC Startup Funding: Series A Deals Fall to 44 From 82 as 16 Mega-Rounds Take 61% of Q3 Cash",
-      "source": "Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmR4ZG1MbmtEUUNFQVl4aWxDQnJsMEpzeDBrQ2RRZXk0b3ZqdlQ5OFhMWGpaS3N3aDRmSXhQT3VkWXpCYjhCN3JhTWZQV28wMV96aUI2ekx6cjhlWHItdnR4bmJWN29tVkZUeExfblpIakc1NE5wbFY2c3RWZGN0SXF3dFpacG9HbnRuUkxBWTFvSU8yRkJ4cnhlVS1VcE9nZ1NpTS1hMFdRVndMU0Y0c0VGUHM4SHJWZV9mdE9ONGp3SU5EQzI2MA?oc=5",
-      "score": 7,
-      "summary": "NYC Series A startup deals fell to 44 while 16 mega-rounds took 61% of Q3 cash.",
+      "title": "The Rise of the AI-Forward Engineer in Modern Enterprises",
+      "source": "RT Insights",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVlV0YlJ6RVU0NWczUzVsRkpqN3lIQi1HUHV1Uk52RnF1amZNWjJVZlhCcjhCaVo1enFtVkVhalJUYjVTdWhzN2ludjBOLThzOG1UTndFa19ZSEF0YXpybDllb3VtRzlSd0tEei1aSDRjMFI2cmlXNVNFenlzd0xtZ09yMkZZQjZEVVNZTk05WGN2Yk5jWkVVU3U3c2FoRDZ1ekNOMGw5ZmRiZEdQaTVKZ0VtZw?oc=5",
+      "score": 5,
+      "summary": "The AI-forward engineer is rising within modern enterprises.",
       "topics": [
-        "startups-funding"
+        "markets-business"
       ]
     },
     {
       "rank": 10,
-      "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5",
-      "score": 7,
-      "summary": "Big Pharma reports that AI is shrinking drug discovery timelines.",
+      "title": "NMSU receives DARPA award for solution to AI trust issues",
+      "source": "New Mexico State University",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDFLXzFYR2N3bkJIZzhLMVZxZHVmR0VxWVVwbzRpSE1VX2F3RlZUWEpVUVJRcXNrVnI3Qm1aaVVGdTNjRDdxUzBqNEQtVmdVdU9QUFJNZzdOZDFTVE0wODkzZ0VsNURkSHR5VkdTR0tqQVh3TlRyMFRyekZMeFkzYXp1SzJWcHdwVmswNEtNaW9icWMtNFd5TUlPaWItSksxc01xVndSR3ZfWDBudjBDdTdKZEtuSktBb1hpQnMtVHhaRFROb2c?oc=5",
+      "score": 5,
+      "summary": "New Mexico State University received a DARPA award for a solution to AI trust issues.",
       "topics": [
-        "ai-models",
-        "markets-business"
+        "research",
+        "security"
       ]
     }
   ]
