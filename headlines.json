@@ -1,474 +1,469 @@
 {
-  "date": "2026-11-23",
-  "updated": "2026-11-23T15:26:26.326+05:30",
+  "date": "2026-11-24",
+  "updated": "2026-11-24T09:01:31.398+05:30",
   "stories": [
     {
       "rank": 1,
-      "title": "Anthropic Raises $81.3 Billion In Record IPO",
-      "source": "CIO Africa",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0RWhyOGlkanlGeGcyWUV3WHFoQl9rMXQxWkxoVEh4N3pGX2pwTUliclVpeWY5TW12VFNsQWhrV1p0ai1oQ2VrNnViWE1TVHdyeDRoZEtaazEzdUtKeHVOVmp3aEV6NkZscnlscDl0TVgwVDQ?oc=5",
+      "title": "Jensen Huang returns as Nvidia chief: What happens to interim CEO Colette Kress?",
+      "source": "The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVhaUXhESDVrSmo2c2h5SjI5S0cwa1dORTAyMHJLaEtobHBVeTZiYlJRd0xYdUpaZHd3dWFaQTQtTndBN1lGM3J4dUItVFNNUk9URDFoNDdhXzhDLXp0d3RtSzUtdVZHUkdnM002d3gwUjZYRFktQnJNT3VTTloxclU1WXpsdHNoTE1uT09ZYnBGUFR6eU5pUVVQUFIyNWVUZ3M2LTVRRDlPMGdWMDN0dDdYZElaSDjSAb4BQVVfeXFMUGtWLUUzRHFBZDE0YWtYLVNIUTBBellmbmZ2aFVGRXZUbzBlekozVUh1ak5lZmZnWkI4ZFBuRlhxZ1h5c3prd0Fxa1lBUklBVHJvYjZHZWZ0Um5ubm5MR1BRRXJ5SV9JWmg2RjlXSVQzYm8zWERSLVhNX2FrLXJxNVJjX09TOWg4eTY0UnZaWWVhQ1FlYmpBc3drT0lQVmI2Q1lsZng3TWF5b1BtR1JSdFhTWXNtWUhhdlNTX1pudw?oc=5",
       "score": 10,
-      "summary": "Anthropic raises $81.3 billion in a record IPO.",
+      "summary": "Jensen Huang returns as Nvidia chief as the status of interim CEO Colette Kress is questioned.",
       "topics": [
-        "startups-funding",
         "big-tech",
-        "stocks-investing"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Tamara secures $400 million from MUFG and Standard Chartered as lending business grows",
-      "source": "FWDStart",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDlBd2VYa3Z1QUVCY3RDTnppR2ZBbG1wOWEzN0ZkWW44Y0JzRzF3SFk5QVIzSGJJQWZ3bklOOEtCMHdya0RIRVFjU3MwSFE3dnpodmg0V1ZiRW10NHRXR3dKdno1NVZaR3dSQU5kVzI5bkNOZzJJMG5zX3RMNzZrRy14WHk2dmUtSWZyQ1VseVdlVW9IMmF6RzU2eHdaUjQ1Z25HN3g0X25pUGJ5OGI5ag?oc=5",
-      "score": 9,
-      "summary": "Tamara secures $400 million from MUFG and Standard Chartered as its lending business grows.",
-      "topics": [
-        "startups-funding",
+        "chips-hardware",
         "markets-business"
       ]
     },
     {
+      "rank": 2,
+      "title": "Chinese AI startups draw record funding to challenge larger rivals",
+      "source": "Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFlqMlFhaGdoTk1SZUlqWW51Q1dHRU5qY2cwaFJwT0FOWjNxblhfZHdFbWQ3YjhfWjF4ZUJKaFQtcC1sRHRQalo4aGR1ODlXN25BOGdqRzVZUFZ4N01zZFVMQ0d1NjFIa2Rod0xaWnBvWlBaMDYtNHMyckFwT1hlWFk1c290ZUZFdWxNMVRxUjNkSklnY2Q1R3JB?oc=5",
+      "score": 9,
+      "summary": "Chinese AI startups have drawn record funding to challenge larger rivals.",
+      "topics": [
+        "startups-funding",
+        "ai-models"
+      ]
+    },
+    {
       "rank": 3,
-      "title": "Sarvam AI Defends Token Factory, Says Homegrown Models Remain Core Focus",
-      "source": "Inc42",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3ZXeEswNzEyN3lnQVphTDVob3NzbTQ5TDRKRzRUdE8wRHpwS1NTelhlcWVxV0xqaGNJNS1kS1NTREZtRkFjUktFRFpIanRRc0pLUmRGbGZ3eFlfUXVrZTRUNW1pNXVBaFhVNGcwd2lKUldESjd3cnBGTzc5cUdSbWg2WmlSVTB0cUc5WC11VVNOanR3LUdBd0ZPWQ?oc=5",
+      "title": "OpenAI shares internal AI scores and calls for common limits",
+      "source": "The Rundown AI",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVEJJOENtbU4weE85N3lZbVhENDhDeHpzemZnQmNhNnJXUnNoM2tUSEFvNGlrQmRPemVWQTU3Z2RJZ3h0eE9MelowVndiLWcxM0FsVDR2WnQtTW1kVkl6NTVfZnJPVF9iZ0hVd0RWSWZuWkhaWUhPbnZ3?oc=5",
       "score": 8,
-      "summary": "Sarvam AI defends its Token Factory and says homegrown models remain a core focus.",
-      "topics": [
-        "india",
-        "ai-models",
-        "startups-funding"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Yogi govt builds country's third-largest startup ecosystem",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3djcWRpY0ptU0o5ckZIS2FNQ015WG93dWdVNF9zdmhvdW1aQjRMYVVUSXVXTmNSOW13OE1wTWVfS0g4Q3V1QXhyeHJSVndPRy0zZzJTTXBHblpERmE5ZzFtYmFVVGFBYjBfQVpjV2tUZEp3aGprc2NqSlpyenFPRkJjaGFGeWNvMkZVYlNmeFp5b2RkNDZQbDNjSGg2emVuNkZQakZ0N1NXN19nT0JHZ21tdURuS05hS2dfZkE0eDdyVzczRkdaVmE5VnbSAdIBQVVfeXFMT2Z3U0tDVG1abHN4bXNqc1IxcmxBXy1McWhjZlJQRXBveUFrVDJxZzE5bjVPMkQ3TlBSdXB3LWtKajE1N0MtX1FZWDZNU0V2MWFEWEVabnJReEMyX1V5ZExOZFdmZHlLVVpxcG5ObzRmeTJDUURyMk1LZEVkMzIzcWdlaExaeENORFBPd2pwTkpOZjdvNWVaQnJmeWNoQlAtMUI5YlJzanpqemF6SGdpTFFrc09HajlSNFQxdkQ3SDYtQUtrdXdDY1RQYVZUWldNeEVB?oc=5",
-      "score": 8,
-      "summary": "The Yogi government builds the country's third-largest startup ecosystem.",
-      "topics": [
-        "india",
-        "startups-funding"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Eminem’s Publisher Expands Suno Copyright Lawsuit With 108 More AI-Generated Songs",
-      "source": "RouteNote",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnltY1Vhb0VVUmpfWFh6bHVEWGpNX1lyVTFZcE5xbjd6NjZFWE1ZZlBoVXBIOWs1OUNuQk50SEZCZmtBMXMzTWRscTluNXBxLXRua2tIdFVLeTNuaEVEakpTdFozcnhaS1A4M24xc3B5ZW5VYV9lZ2FBSWlTRi02RlY0UmxuWnlqTktTd0pMVEcxUHJ2RFE0Skt1eE04THRfallSNUZ2NkxJQ3k1UGt3?oc=5",
-      "score": 7,
-      "summary": "Eminem’s publisher expands the Suno copyright lawsuit with 108 more AI-generated songs.",
+      "summary": "OpenAI has shared internal AI scores and called for common limits.",
       "topics": [
         "ai-models",
         "policy-regulation"
       ]
     },
     {
-      "rank": 6,
-      "title": "AI Drug Developers Post Higher Trial Success as Deals Hit $46 Billion",
-      "source": "PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkwyRzdOT3N2OEs4VDcwclNkNEc0cUNIekhnX0RQTElxZEg0OUVMb3FCeG5mNjNXWnF3bENfQnEtWXpHQzEwc21sbDVnRERXNGNZX2F6Yk52QUU2Q21BOW9uMVBEWDJVZkN5YmZwZDhUQUNibEFQakFJaXFuRHc1OGp1UlhXb3JsekZsZmh1WXpUM2pSaF85bjR0Qnp2SEFZWUhJSW9UejVpWjdMZkNGNVJvWWM0ZDcyM1NmRkpER29vVHVG?oc=5",
-      "score": 7,
-      "summary": "AI drug developers post higher trial success as deals hit $46 billion.",
-      "topics": [
-        "markets-business",
-        "ai-models"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Bolna Builds Its Own Speech Model to Catch What Voice AI Misses",
-      "source": "Analytics India Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWVxUWNXRTY5UE1SYzQ2Um5rVXE1VzhwMmt5Y2oyWWk3U1EzNkNkVWVnMEU3NHNoRXVKOGQwVWthREhZNlpORW1jR0JnVGxxcUNLX21mYmw3SXBYeWl5WVY1NzFvRnFRSkR1MWhtWS1YWDlpU2piYldxUW1wY0Q3cW02RjNUTXExeXZ3QjlaVDNwMHJrZ3RmWVFWblYxU0lYcUFMMkI0UmM?oc=5",
-      "score": 6,
-      "summary": "Bolna builds its own speech model to catch what voice AI misses.",
-      "topics": [
-        "ai-models",
-        "startups-funding"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "DXC and Cisco Collaborate to Advance AI-Powered Network Operations",
-      "source": "IT Voice Media",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0g2bG8tajVvcDRiWEQ5LXYyNm5zZjR6amJ1TU56QVFYNG5TN0ZKd01LM3BFODNQU012YkZ1VkJhU1ExejNCeFZCZ2hJMGlFQzNCYmhvSnFid2ZBdFdQS2Z0NFByd3hfNUM5SDZaM053MldlNzRCaEluRW4ydHBwcElmUm1wUEU5ZTFiRGVrVks4QVY3THJKZlR6VDRoSW5KTy1vOTk4S2h3NE5LSjRza2xwVQ?oc=5",
-      "score": 5,
-      "summary": "DXC and Cisco collaborate to advance AI-powered network operations.",
-      "topics": [
-        "big-tech",
-        "markets-business"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Databricks Ropes In Sandeep Cashyap as Senior Director for India’s Digital Natives Business",
-      "source": "varindia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTZEcHhQUEZGNE55QkZtbFB1azluWWU3c0ZURTlSR292cXdsRHlBRXhZSEJGcHJabURmaEphMTN6MWstNEFuSGc3cEM1SGt3bzBacUExQ2tBSWNuaWZKcmpFTEhFZW1Zcy1LeGt0d2ozMk55aEpyUGk0anhmYVo3WFIweUNqMXBKU1EtOXRLMmFZZ05EVDNGX3drYmZRLW9KVFdmTW1SeGxBcmo2dTE2YTNIWEtKa3hDNlNOdzhfbFNEaF9IcVA5WA?oc=5",
-      "score": 5,
-      "summary": "Databricks ropes in Sandeep Cashyap as Senior Director for India’s Digital Natives Business.",
+      "rank": 4,
+      "title": "Piramal Finance expects 50% profit growth in FY27 as AI boosts productivity and lending",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV2d1N0FiamE4Tk4tMGZIXzRhaEtUYUpaZGkwZ0tBbkZxcUJiQzdWQzhoVHNEenk5cVEyRzhROGQ2WUstSS1xNTMwaE9pVjA2NlBUUGRjQTl1SWxvZXhMMXBBX2JWbjRkRTduaUl4QlNHRUNKLU9uelJWY1B6ZGtpY0l1S0dXODhYekt2WHo2V1NpY3VXbmFkZnEwNkZRcm8wNkp5bnVnRDhQVXpkeDFpNHUzUzNNRjBJRU5pbzhkOTJzSFR0U0tnU3dCek9Yc0pFLUJJdDZaVGVjVnlObEhPNNIB5gFBVV95cUxOSTZ5MnJUU3VWd0l0cUUycm1XMkFxSEJJeFYxWjdJb0NXQ1RXaXpzZGZCNzhfWXNkR1VMd1BiVUs4bkhQcjJ4LUFoQmpkN3Y1VnVVMVlaU05BY3ZkYWlRdGc0NVZqVlM3Qm5KWXVKV0dOU0pHbURLOS1BYUFweE5OS0FUR0lfYXpDeHZsR0Y4WE1lWTdkRTlmYVU1ZEpWOWlTbEJJRnBpZ3ZuRHVuYkdfZWttSGViUnlPdEJmenllNjV5YmxCWW92M1dwSFgzMjdjVlV0RGwwTzZXYUtXaXZSR3V4N2ZDZw?oc=5",
+      "score": 8,
+      "summary": "Piramal Finance expects 50% profit growth in FY27 as AI boosts productivity and lending.",
       "topics": [
         "india",
-        "big-tech"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "AI reality check: Leadership turmoil, IPO jitters and the fragility of big tech",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREdEMjllemhROXoyc2ZXMEE0WlI5bUdWRW1rLWQ2VFVzS2FZMHJmUW44UG1OeEotYkgxMzY3SHJ6X1FRZ3h1bmtCYmtLTzA2MUNwNGhzbDB1OWw0ZlVod1YzTUx0TVZlRmhIaDF0MkdCMUVubjBDTk5uRlJCaENKeXlCanczMFdJcV9UMDlQRkNDNHBPMTV2cEQyTVNVazJ4OTNtU0xLZGFhQUVLXzdDc3dlZzhqOFhtTWxNaHVxQzQtTEYzQkE3WmZUSjA5OGw4NEZPTjVJUdIB3gFBVV95cUxQcjdzMkFlemdTSFJFZGh5RWRsUlhjX3ZhS1AtSVE1YXI3RHRqSy1PWERUTUdNNnV0cUlTRExuMTBFTXlxR05Fc1RCTGlXQllkbEVpREtLNGFGZVhSdTNTUmpBaXlVWW4xUWJlYU1oTGprazRiWjFpeHNnZWY3UzV1QWNSV2dNUFlrM2RiNDFnTUlqSGxyZWdoR3AxSGVRY25LdmdqVFk3Z1VWU0IybnNPWkp1cHIxMnU4VnJCdjhJdzhwclNlSmVLOVdLNnBaMHBnVTN2bk9rVWFmRFZrLXc?oc=5",
-      "score": 5,
-      "summary": "AI reality check involves leadership turmoil, IPO jitters and fragility in big tech.",
-      "topics": [
-        "big-tech",
         "markets-business"
       ]
     },
     {
-      "rank": 11,
-      "title": "How the AI boom is straining energy supply chains and affecting multiple industries",
-      "source": "ET CIO",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTE56a3ZPUWJkekl5SldhbkNYRERIT3dhZ29BQWtWeDFxbWdMOXJsbUVacTJoZk1aY3Z2ZDk2WVBZV3ppMU5fWkt0VGhhVkEzMk9wOWt3SWx2ZjRRU3N4eXlxSzdVemtVZVE3dVd3WTh6bzM5LVVRdS11Rk9sbndjZHAyd0EwS3JnV2NfbXVBSEozaTNvdmRTczlMT2lZb1ZJMjIydlg4NU1qX2dxYTZGWjdwMXFncU1XQm43bVFya0NzQnlzekY2YThQZFM3Zmt0VEJMZWNWVWNKOXloNENVdktUc0RPQ0kyVF9yUGFmaEJPdVdhN1FMcktzNXc5eFdWdnFLTTR4NHUyd051WVI2cG9BVDF6YjVnQ2VyMmxlRW1IZE1wdjZXUEs0N3BuQdIB6wFBVV95cUxOU3JweHFneTV4RlZBblJTdmpQN0xmZFc3eFpBUUljeWMwc0syMnBJTmVqd1ZRNThsbGRJUDhEaHpHODZFT3FxYW1tNVlNVE11ZU9hSFU0NW9pQ3Y1MWhELWYzcXN5UERrdDE3bEZjSG5GQS1Qc0dTNTRSdEZYMUdySTBJTG90WVNWUlNrWlJYaV90WUVPRFZRNk9KUzQyb2MwbWdHTXdBNkkzbDZXbDJaQ3AzNDdnX0RKMjFOeDNUazR2X2VfeFF5WFdLNlBickowUlhfZUVzTGd3U2s5cGtlNWE0V3duM0xXR2Rz?oc=5",
-      "score": 5,
-      "summary": "The AI boom is straining energy supply chains and affecting multiple industries.",
+      "rank": 5,
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UWmFFQUd3NWtmLW9aWW1MZWI4M0VFa3lBWk5remd1ODRiUjk3VVBodk9nbDhjbU96cEdqVHhYYnk3YjZ4Zkc2dlB0ZlhKWW9ORndOcGRsTGl4Sjg?oc=5",
+      "score": 8,
+      "summary": "The US will blacklist Asian AI firm Megaspeed following an Nvidia scandal.",
       "topics": [
-        "markets-business",
+        "policy-regulation",
+        "big-tech",
         "chips-hardware"
       ]
     },
     {
+      "rank": 6,
+      "title": "After cyberattack, SBI is hiring AI experts at salaries up to ₹1.6 crore - People Matters",
+      "source": "HR News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSGpiS2NzSnV6dTBPOHAwUjJORVI2Rm9PLVdZWm4tQXZVZTRoNksxZGJDRXlYclZVRnNaa3ZRUk0wNERraHJCWXZOQXhFaHM2cndfSVl1N1RWOEpYS1Vkd2pSTmh2VTdDVXh2UHB6M3NDZTNhbTU4Rk5YSUJEUzlfRWwtZnVScG1pU09vbGhuTzRiQmk3bzEtRi1CaDBhRWlKaVZlTTBxWkxfeHdOS0p6U3dIVHg4Z09Fdi1RNGMyeklkWXl3MmhrakFtbWttMUItV2UyTnRjSDZxQQ?oc=5",
+      "score": 7,
+      "summary": "SBI is hiring AI experts at salaries up to ₹1.6 crore after a cyberattack.",
+      "topics": [
+        "india",
+        "security",
+        "markets-business"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Claude helps produce a Riemann hypothesis proof in about six weeks",
+      "source": "The Rundown AI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOcEtGakg5QVRMaEZUSE14d2hfRWpkdHJUMHA5Q0lTT2tHeXVuWG9sTG1HWmEzY3h6VTJmaTNXcDlDWnJxNVpkSk03TXBudzJiNkNkU042Rjg0ckEwYWd4VTNpaWV0T1ozV3FZYU9iWQ?oc=5",
+      "score": 7,
+      "summary": "Claude helped produce a Riemann hypothesis proof in about six weeks.",
+      "topics": [
+        "ai-models",
+        "research"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "UN chief calls for world to agree on AI oversight within a year",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVNBQl9aRURGZHBIc0xiTVRvOW9pWE0yaWdNVkZrNzJVZUtGb2luUUx2SzhCN1BQUXZzdFJLRDA4Q3FBVTg1WXZ0TkQ0S0EyOENRNi05NW50Y19RNkI5czBYMkQxX0NULW1nZUw1bENaYmk3ZVlGaFNJUUJxMUVjM0VERl90SzVDMm9qRHpzcjR1Q0lVVHZEWDh6c3RoRWs4NkI2eVBkZUXSAa4BQVVfeXFMUFFyTWlPTHRZcnY1QWNBZF85elMyeTRnQTFObnAwYUdDVnFYUDVGSEQyYm9CblpHcUpJMEJ1UmVBOHVqQ201VVFKOVVRNjBXakVValFUWi1DSTUxU294RjlHZ2toQTQ0Wm04Tm1YbFU4WTRlN25LLUQteE5MeFlhbG5PdzB2UWlsSmttRXNpY0hrdmJZaGZ1enNLczQ5d2JkaTFnYzNRV1c3UEgwemVB?oc=5",
+      "score": 7,
+      "summary": "The UN chief called for the world to agree on artificial intelligence oversight within a year.",
+      "topics": [
+        "policy-regulation"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "S.Korea’s Naver, telecoms block AI agents from call centers over liability fears",
+      "source": "KED Global",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qb1E0ekF2Y195b0JfWjJORHA3SVFxY3ZBcVJZa2dYMUw3bTFnUmxyX3FvdldNVFg5UEhpdHNRWE9DY0xDckR0YklqMTRISnNFdVJNOE0wWFlMT0ZDek9JRUhwV3hXRkhqZTFVTmYtdkZLWEdPcHdGX1B3VjdNVXM?oc=5",
+      "score": 7,
+      "summary": "Naver and telecommunications companies in South Korea have blocked AI agents from call centers over liability fears.",
+      "topics": [
+        "policy-regulation",
+        "markets-business"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Nagaland: 11 grassroots startups get seed funding as ABTI opens in Dimapur",
+      "source": "Hub News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXpJU1FKT2FESHFnVS1OSzBlWU0xOUtmV1N0SkJITjRTZUg5NEJLLWJZczVzVzBCTnczUEdKWEhoNWRIQkFMNXotdExXaFRmNkxjUjVEcVpMa3FubVpnVnJ4VDVkc3FNTF9xNExFak5Rcy1vdFZ6WjFabVVTV09kcFpRWWVKd1NQRGRLbHlHV3VKejcwVUxmOEVZTFI?oc=5",
+      "score": 7,
+      "summary": "Eleven grassroots startups in Nagaland received seed funding as ABTI opened in Dimapur.",
+      "topics": [
+        "india",
+        "startups-funding"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "New AI rule marks a first for US federal appeals courts",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFpmUkVHc2JjTWYtenpNaDMtVUhVNHBRS1ExTFhJRnFMNU9vWHYwSFlvZmoxcmZXUXhieGl0UGRqdzdJXy1pUGY1Ul90QW93OTBET21hWkRDd1pOWUlhTWQtcGdwZE9fOTAtTmVjYU11VWZTOGpMQXhiUlg4bzh6bEtVOHhBWEFFZGJxLVdveUd3MEdMOU1RU2JjTktnSU1UYTNTVzlCTkJBdUVGUF8tblk0RQ?oc=5",
+      "score": 7,
+      "summary": "A new artificial intelligence rule marks a first for US federal appeals courts.",
+      "topics": [
+        "policy-regulation"
+      ]
+    },
+    {
       "rank": 12,
-      "title": "AI boom drives hiring demand beyond tech sector: Report",
-      "source": "Focus Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zYlE2SnRxQ1BhdTlHd3prWElxZzdmQ3FDdXlNbFZrc0EySlNEdUpzMFp0SlVuVmNITHFSSnZhcUFWQXNUbFRwVjFHQ21WM1l0VWlidEY3bw?oc=5",
-      "score": 5,
-      "summary": "A report states the AI boom drives hiring demand beyond the tech sector.",
+      "title": "AI in HR: NAB apologises after automated emails reveal plans to cut 2,500 jobs - People Matters",
+      "source": "HR News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjExbEhsZEhlR0d5a01tbjFXZldUdVZkOWx0WVZqSmFNa0Jza0QtRm1PcHpGZG5STVZQN2NiQjhTQzI2bExwekZ4RGxGUGRFNFNsY241UHFyTU5mWHRVMk85WUZQc1k2ejlTUUIwazl3TnUzUlRuWWN6LW9FbnNCZTVDM3dsWjNIUjdfZ3F5dGNiUEVCNFR5WkRJckhSSDExWVZCckJjYWJ3Z2xmZS16VUI4VERBNFg5aC1HSnlNMmJpTFdYOWlZYg?oc=5",
+      "score": 6,
+      "summary": "NAB apologized after automated emails revealed plans to cut 2,500 jobs.",
       "topics": [
         "markets-business"
       ]
     },
     {
       "rank": 13,
-      "title": "Vertiv launches SmartIT for high-density AI deployments",
-      "source": "IT Brief UK",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlXcUlkNHNEX0dXbW1IUUx6dDhfNURwYklyWmh2Mk8yQ1I3UUhRTXNfRHN0ZDR4REhZOV8xakh5Q2xUSHE0VEZGVGI0UWViTVFCVWpyVGdMU3R0SGxnTmZJb1JqN21hWGFkbVNadXpPa0ZMZks2LW1BUk1UNEFKUFRmQVprZVZJdXk0?oc=5",
-      "score": 4,
-      "summary": "Vertiv launches SmartIT for high-density AI deployments.",
+      "title": "China’s Z.ai ‘aggressively’ using looped transformer method to improve AI models",
+      "source": "South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXFGR2lwa2dBaVdUZzRwbkNfX1VZc0FCRk0xRC05eG1IZnR5VGY3V21xVVdYbXBudEJnUkZqRVV0eWNMVXI5SGtjMjJsQnpmS1VaaEYxREtEWEVYczhRUUotajFET2YzajNYT0VYeU9naDFuVWt0VS1DN0JlYTA2eHN3WEtfaXltd3ljRFQ5RWRacGxRMGZxaWpwWjZJRlF0NzRlUjhGMS15MmFaRzZnLXNzX0R4Y295YVVXNFdMOU5Sd9IBwgFBVV95cUxOVXFGR2lwa2dBaVdUZzRwbkNfX1VZc0FCRk0xRC05eG1IZnR5VGY3V21xVVdYbXBudEJnUkZqRVV0eWNMVXI5SGtjMjJsQnpmS1VaaEYxREtEWEVYczhRUUotajFET2YzajNYT0VYeU9naDFuVWt0VS1DN0JlYTA2eHN3WEtfaXltd3ljRFQ5RWRacGxRMGZxaWpwWjZJRlF0NzRlUjhGMS15MmFaRzZnLXNzX0R4Y295YVVXNFdMOU5Sdw?oc=5",
+      "score": 6,
+      "summary": "China’s Z.ai is using the looped transformer method to improve artificial intelligence models.",
       "topics": [
-        "chips-hardware"
+        "ai-models",
+        "research"
       ]
     },
     {
       "rank": 14,
-      "title": "Alan Scott Enterprises launches JAANO, an AI-powered learning platform",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGNSdkI2d0R1X2NDR1M0RjZ6RVVwUzhkdVFCVG1wNWJxSGo5eFN0TFFNcjdjS3gtVDBfTWZIQUdXVXl0ejBMc3VFT3lFZWFBWlRKcXU0LVdBdGY5TG9ycEpTSmZ5SGhYYXlFdkFjUUY5ZmFxYTdOMWtQYmRpN20yY21oWUlsRHNZR1l3Z0JnNzE0V1AxZFYxV0dNR1BmeWo5Ukd6R2pHdi0wT2I3YkYtQWxLWmgzN1ZhRE5pOWNJQm4?oc=5",
-      "score": 4,
-      "summary": "Alan Scott Enterprises launches JAANO, an AI-powered learning platform.",
+      "title": "Swiss Ticketing Startup Smeetz Raises $6.5 Million, Announces New COO Following Its ‘First EBITDA-Positive Month’",
+      "source": "Digital Music News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZ29qekUyaGNVYm5yT3JuNFBnZGdGbkZPbDktNUs1Si10cUJ5YlhPOW1ZZ2RRVkUxZFpMQXZJX0FfOUdxUHpkOUE1bl8wZXFxZnRDMDRmSDNIU0gyemNZV0UwUmhfSEhWNGxGVW16ZjVMQnJDcmxyQWE3YVZfQQ?oc=5",
+      "score": 6,
+      "summary": "Swiss ticketing startup Smeetz raised $6.5 million and announced a new COO.",
       "topics": [
-        "ai-models"
+        "startups-funding"
       ]
     },
     {
       "rank": 15,
-      "title": "Twilio adds voice AI tools to fix live call issues",
-      "source": "IT Brief New Zealand",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnZkT01lRldRSnJ0dG9xYU5tTXN2Y243WktPdldYWnFtUlp5VGNtNGxTVFM1dC1FdE5UdVk4Nld2SDF4Z0F6YmtPVjQ3UE1Db2s3M1Q4eVpYYUhFVXJVZnR6R19vT2hnNmplZ2xYQXJZN19SLVBuYlJudngtbURmRVdmN3I?oc=5",
-      "score": 4,
-      "summary": "Twilio adds voice AI tools to fix live call issues.",
+      "title": "Australia wants to regulate AI the way it tamed social media",
+      "source": "Lowy Institute",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnFDTS1yREdZVFJrMWFwNFU5OGQzanpJcnM0cEJOWEcxWmtHMzM3ek5IaDVaenIySVMtZUJMYnVYbzV3SEZXZHlZcWZKUmxnMURucDFmZlVnajZVd1FzS3E4dEMyeHFVX09sNDA0X0dXMjh1RC0wRnpJZzA3UGpxdUlBMlJpQ0Z3RlBxMU50WUFkNDdMb0FVWHVEbnpBSkNRVXVCOWpVcHFOQQ?oc=5",
+      "score": 6,
+      "summary": "Australia intends to regulate artificial intelligence in the same manner it regulated social media.",
       "topics": [
-        "big-tech",
-        "ai-models"
+        "policy-regulation"
       ]
     },
     {
       "rank": 16,
-      "title": "AI superintelligence ‘arriving’ warns top Meta executive",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnRiM0ZpVzFaTkZaZ2lUc2dtYjY2U2tqZnFGQlNCb2JRWjlCdkxNQWU2WENIYnVsb0hXVjNtNS1XQ1JzdmtBaU1qRDE2aDd5T2c1Z1lTY2VsaXE4NHJUNjhwdGl6Tm1DRlNVa01DOFlPa294amRMSl9uQlFTczN1dVlhSmRBVWJETV84VkxFcG5EUDVxSC14bUpoREdBZGM50gGmAUFVX3lxTFBESHNmbkFBdXN2ZGc2b3FMT3JiVlNQWHNjRnZYUV83dV9NRVJaWXd0ZWVjbU82Qy1yYVNoXzVtT2VzbzQtQ05WTHI5X1MtZTEyRjdKN0M1UUtJdk5UNTYtdHhQbHlBdE9fZ29ZMnV4VzZhNnF1QTd2QnViYlhyOVNBQVM4V2FFV0otaGN5WkhqSTZMNWtvUUxBZG9ZUmEzQUYxWkpwbkE?oc=5",
-      "score": 4,
-      "summary": "A top Meta executive warns that AI superintelligence is arriving.",
+      "title": "AI making foreign interference 'faster, cheaper', Wong warns",
+      "source": "Information Age | ACS",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmc2amx3bXV6UXhnU25TR3BhenlseVZ5aDh5RDRiMkdQSkhndmdFNTBLa0t1TWRObl9RSGQ1aGQtcUFsemVPZ3NrdlpEZVZJUnBEQ0xCWmJJXzdweUNXTkxKSmtJNkEtU0Ntb1FuenhGWVR5RzIweEJSaDFpbXlmSlVlV01GMmV6NndFa0d6aVBVbjg5UjhFOHRoUE8?oc=5",
+      "score": 5,
+      "summary": "Wong warns that artificial intelligence is making foreign interference faster and cheaper.",
       "topics": [
-        "big-tech",
-        "ai-models"
+        "security",
+        "policy-regulation"
       ]
     },
     {
       "rank": 17,
-      "title": "Artificial Intelligence Framework Integrates Urban Building Energy Modeling Across Life Cycles",
-      "source": "Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWpybmFmbHRmSnhocDFSWkRVcHZKQmx0LVM3V1lZamVoU0Q3dFZEbjlkZ3J0UWkzaEJ6NWQxa1RJN3lsbXk4a3NuM1BpVmxQc0lSd0VBV21QTENULWl2bmZqQ2U1bHRlM1o1NWoya2JIRm5HTVY1cmJOMDZjd0oyMTRvSnd3WnJxYzRwVDhyVFRIb1J5MHhTb21ZeHlnbjBTdGdOUVVXTHM1cE9hSlR5dnU1SGtXbGlCY3M4?oc=5",
-      "score": 4,
-      "summary": "An artificial intelligence framework integrates urban building energy modeling across life cycles.",
+      "title": "AI is changing Black Friday, and it could mean smaller discounts",
+      "source": "Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWU1uODU0UjJTS3ZJZ2x1MWdscEduRHI3MGNfaHYwbzIxQWlHU3h2dlU0bm5iVDladnpQY1oxTVA1eHQxRF9NQU9XUkY2czlWVUxiSG42VkEycmgxSm52N0FVSzNUckZLc0dIT1p2NTk3dE9TWFBkWl85VjNGUDFNc1dqZmJ2N2xIblZsQjNLNVpfQU8wX3QyaE9nUGhTLTVQVUcwam5kZmpVYmlzcTAxdUJWWGRWUHFoQjVjWkc3THJWWk1qUTQ4Ukd1V1E?oc=5",
+      "score": 5,
+      "summary": "Artificial intelligence is changing Black Friday and could lead to smaller discounts.",
       "topics": [
-        "research",
-        "ai-models"
+        "markets-business"
       ]
     },
     {
       "rank": 18,
-      "title": "mEinstein Develops Human Context Contracts for AI Agent Authorization",
-      "source": "AiThority",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGNYUEpmUE1SOGpMMVdocVFzRzRMTFZYalBVdVZHaHVfVUZRTzExaXNoMVI0blZNNnZVRnVZbmhld0phaXh0MUlzaXE5SllnZjZNZjg2a1RYNWlkYzVVNDhTWXVmTmlNcVRULU9qLU40Uy16allNalFyVzNJZUxWMkV2WktaMFk5b0t2aDRhSEZGb0tONVdKUkQ3ams4RlpGMHMxQlp6RFNYdU1CQWc?oc=5",
-      "score": 4,
-      "summary": "mEinstein develops human context contracts for AI agent authorization.",
+      "title": "A Japanese Drone Partnership Tests the Business Value of Corporate Fund Investors",
+      "source": "KoreaTechDesk",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmxFNF94LWE4Qy16X0RjeF9MUmlVZE9nSmhFdV9KTkhVSmNXTm1OTzZ6RjJlQXBhY0gwa0tGQWRHV0hubUtMVGx4ZHFnX1lRRXVxZGxKdXZxbVpyQ18tbXhfZWYtTEhvUUxBdkJ4bWI2cGh3YkZLTlhoUFgwWnlIYm92bUtleXpRWVZz?oc=5",
+      "score": 5,
+      "summary": "A Japanese drone partnership is testing the business value of corporate fund investors.",
       "topics": [
-        "ai-models",
-        "security"
+        "startups-funding",
+        "markets-business"
       ]
     },
     {
       "rank": 19,
-      "title": "Retinal Artificial Intelligence Predicts Systemic Disease Risk but Lacks Clinical Validation",
-      "source": "Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVdWakcwLXlzVkRFajJDUFBJYVFORnNMbG1IUzBudHgzamwyX3BWWXdaNXZ5VExOMHpwMDVMQm1SVEZ0OVZsR0dGeVJpdVRfaWJzTUFCSnF2TENOZUxoMVpEeTFvTkYxa05UUEF3ZlgwSkM3YlhweGNGS01fM21ld195MUlvMVcxbTR4UmhaRThpOHh1a09wZ2dTOFRrc3REbXpmUHloSG9MS0dJdHFlQXlkcXlsbGFX?oc=5",
-      "score": 4,
-      "summary": "Retinal artificial intelligence predicts systemic disease risk but lacks clinical validation.",
+      "title": "Governors Call for Increased, Aligned AI Policy Regulation",
+      "source": "GovTech",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmNSZUs4RVBfajI0RWIzSXJyUFZiSUF2N0RnbGNmcE1rU2hEMGs5eWNtazB2VDhJcHc5YXlfa3pJZkxBNlpwNXZMQ3hXRDNaeXc3cTdzX1dBZ0tEX3lXRFhoQmZONkZVVFRNUWlvU05qZWNXWXR2STNLZm5oSzB0blJrZmFjYjY1bWwwekFuSUZTZ3M4dDRneFB0Z3laYWdfNFU1eTQ2blM?oc=5",
+      "score": 5,
+      "summary": "Governors have called for increased and aligned artificial intelligence policy regulation.",
       "topics": [
-        "research",
-        "ai-models"
+        "policy-regulation"
       ]
     },
     {
       "rank": 20,
-      "title": "Meta’s Alexandr Wang says human control over superintelligent AI is ‘hard to imagine’",
-      "source": "The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDFmTzR0akJTX2ltS3pueGkwc2k0R3NlVlptcFBueHhydlp1QUdSTUtYNEdCREFyZEtIOEgySkpvTUZSQ2pTLUZ2aDBSYUZwaHNfT25xTnpnU1U1MDduWHRONXRySkNFd084bFFac1FBN1VQdzNTbjM3ZHFZMGxtalJ4YjZWdXJVcU5NTTFhbTMwcWtDTjhYQ2J6Unh1Ykl4ekZrSlE2QlR5dVVIbHNDb29Wdlp1Y3pOSWlVSGY5YnJfTkJHaS1xSzR3dVFWcERROGVEMmtTZkzSAd8BQVVfeXFMT2JVWXBpSmlqVjdIeUNoeXBFa0owejZwdHJ1enA3RFcyRlFHUUdXdWM3SVRmVXJvX0M2MFB3U2JoTS12UTdZaDhROTlmQ1pxUUtfZUhEVW51UkNMMkhSdlhhWFFaRXRtZUtLckoyRW53cG1tZGtCMWpEOFBHSW43Vl9fSFhJTFlBak9xcV8tMnR2V0QybmY3NV9EYWh0RG9raE5uaTlzdldGa0xaWXE1OVZ5OHFvemFtajNFemQ4VmxVX1JRMzlHbDNDUzFtOUVqYVA5R0FxOWNtTDRNc0ljSQ?oc=5",
-      "score": 4,
-      "summary": "Meta’s Alexandr Wang says human control over superintelligent AI is hard to imagine.",
+      "title": "Bridge launches AI advisory business for wealth executives, with systems clients keep",
+      "source": "Superpower Daily",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVVVobEMwM3hDcG9JczZ5ZDNxZ0RYanUwUGQyVmFEM2FqcmdSZWtyb2M2NnZXajNQN0NhN3FlcjVNaVZnbUhyUm1KbHdQbngxa0ZsQko4M3pTbjYwSm5JUTdGeTJmZ29sak5Xa3RGYTNiUkZyVlRxS0h3ZzkzdVZtaEkxb1RZZnZ6aV9iMHU5X2hVQlBKYkJlR1NFcEZGSTBWYzVBOEExWUZtY216NnhnLWF2ME1mMThpbnc?oc=5",
+      "score": 5,
+      "summary": "Bridge has launched an AI advisory business for wealth executives with systems that clients keep.",
       "topics": [
-        "big-tech",
-        "ai-models"
+        "markets-business"
       ]
     },
     {
       "rank": 21,
-      "title": "StudioX AI Launches OpenTelemetry Tracing for Enterprise AI Agents",
-      "source": "AiThority",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmN6SmdRNGdRWFpQVmtiRjBTZlFHQm5NbFhfT1dDY3M4MnFSWDZ5WnNUZFlONEp1bkJ6ckZLTjJ5NDgzX1pCaURSTDJoUU16RDlfV2x6QS1lOXdQT21wX0liNWhjd0RBNG5OZS05MzFTcWE3bFZIQlFiVEZzYzNNU0NEVVZqbFYyTkF1cnk2NUNWSG9QVUVSQ09VTkJvUF9NVTRCYlFVWlEtQQ?oc=5",
+      "title": "Hyvid: Agentic AI reshaping traditional offshoring economy",
+      "source": "IT Brief Asia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3FFdk9LUDNEUkxqMUdaV0lnRU80UHNqWW9WMlNpaEEzbmRZTm82c3hDQWdrdkk4cWcteWdfVmpodzBJdnVSM3BweXQyNHRHOENjUUtZTVZYUkZsNWxBeVNhallpcjhSQ2F6WUdPTW9UbnltZE91YWVQdXlyNHdYT0E1SGgxbDB2Q0lzLQ?oc=5",
       "score": 4,
-      "summary": "StudioX AI launches OpenTelemetry tracing for enterprise AI agents.",
+      "summary": "Hyvid's agentic AI is reshaping the traditional offshoring economy.",
       "topics": [
-        "ai-models"
+        "ai-models",
+        "markets-business"
       ]
     },
     {
       "rank": 22,
-      "title": "Armenia's AI Silk Road aims to reconnect East and West",
-      "source": "Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDNVc3N6OVIzYVFRdTkxNG1FWHZlSGtNTC1Ta3ozNENmMHpnMnA3RWUwOGdVczJkTlhpZ1pwbnQtVGp3LXdiZUo0VzkxbEMxNFBORHBubUFVcW9XYkJNLVNlak5xR0QxWHRySHRadjJpOTdDNnlwOTFPeWRpQ3RMd09fbzRKV0dsQmhfREwyaktBM1U?oc=5",
+      "title": "72% of teens have tried AI companions. An FGCU counselor on pros and cons of ‘artificial intimacy’",
+      "source": "Gulf Coast News and Weather",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelI4eWl1QU9FNkpxMUlkTW9mNmNmb3pHQWduNm5ycTJKdnlwektGNEdhOFBEX3ZSa1ZaVkVfYkNtelNWY0w5Nzd6anVJWTBXVjdiTGhTeEJZYnN4S3hBd242dGFOM19ZNUhnTXhaRzJJQlpSMlpRczVncF9zZjJSNU0xSVhfbXlPcVU2SjRkN0hJcHUtdmprRDlTXzl6eUFMU0E?oc=5",
       "score": 4,
-      "summary": "Armenia's AI Silk Road aims to reconnect East and West.",
+      "summary": "A counselor discussed the pros and cons of artificial intimacy as 72% of teens have tried AI companions.",
       "topics": [
-        "policy-regulation",
         "ai-models"
       ]
     },
     {
       "rank": 23,
-      "title": "This Unstoppable Artificial Intelligence (AI) Stock Is Bucking the Tech Sell-Off, but Is It a Buy Right Now?",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQY09ORExyLXB2aGV1QXZzRzZaZzRrWlBjQmdwQjJKN3d4SnFQalozS3FhQlZtZnRVVDNBdWtCMXBkOFcyaVMzSk9KTmdDb1ZILWtudmlyZ0E4X0FpVllBQVpjSUhZZmJoY1V3X2w1QUdvZXJpNU05c2pyMnNEUF9mS1pid0dneWxCS1pJN1Z4RFJUR2JwSjFGMlJFbTgyV0pRS24tZjZDT0kzdVBILXFLbTZNOVhEaUpiRy1jYmFSdGN6NDNmRmFCQzNVSFdjR1k3bHMtR29hVnRfaV9pbUd1VHJZX1BuVWtyLV9CVWxBN09GbVlSdUh3eDR2MVJvbFgxR1kzbExLNzREZ29PQ211Vm9hbzF0S1FuUUtR?oc=5",
-      "score": 3,
-      "summary": "An artificial intelligence stock is bucking the tech sell-off.",
+      "title": "Lloyds publishes guide on scaling AI responsibly",
+      "source": "Finextra Research",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLU9JeDRTYk9zVGRaV2VVY2JtRXI4X25DNFFGMjB3U20tRHNLbUc5R1RyQzRjVXphcVhwcnhncDJacl9IVFdlWnhrQXpRQ2h3aEZVRnk5RTE2Y29FNWQtNVB3V2hLOEUzOTFtVkRvZ3ZlVHU2QnNaMmdtNlc4WmNySTFKVG5EaV9lVmVOUjdLY3J3RFUta3c?oc=5",
+      "score": 4,
+      "summary": "Lloyds published a guide on scaling artificial intelligence responsibly.",
       "topics": [
-        "stocks-investing",
-        "markets-business"
+        "markets-business",
+        "policy-regulation"
       ]
     },
     {
       "rank": 24,
-      "title": "If the AI bubble bursts, it could create a serious problem for health care",
-      "source": "STAT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDl2THRGejl5ZlktLS1UdTZfTW5Pc2s3ZHV5dkVPeTh5akttU1AtVUNWV0hZSGd4V2JEMEhlRFF6ZUt6WUFtXzdLQ2JfNTFZejh3aGcwTllaakJmanlnbXJhbkhuSUo1TExEczVlUVdoZl9nOFhSVjNsaUhJaHloVUJsOENSVVd1QkpKZlpn?oc=5",
+      "title": "Sunway Group Accelerates Secure and Sovereign Enterprise-wide Artificial Intelligence With HPE",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWxDMkk1RlV6MkI4elVCS0VNMWs0N2IzN2pEdjZVS1owM2VFWm9BWF9EZ2hGVzhBLThUaHZRMXdUaW4tTFdrTUwzTWRqQ3AzeXpnUUUyTE4yRDlhUzhYMkF6SG5OT0Z2X3hoYXM2ZFozOVdOcW9md0RlWHZPcS1zZGZwb1RDbk1Celk2cXlwV2o0a2hLUEhRdUVLUDBWcW1BU2I3d2FfWkc?oc=5",
       "score": 3,
-      "summary": "A burst in the AI bubble could create a problem for health care.",
+      "summary": "Sunway Group is accelerating secure and sovereign enterprise-wide artificial intelligence with HPE.",
       "topics": [
-        "markets-business"
+        "ai-models",
+        "big-tech"
       ]
     },
     {
       "rank": 25,
-      "title": "Bengaluru Tech Summit 2026 Puts AI, Deeptech & Robotics at the Centre of India’s Global Tech Ambition",
-      "source": "The Financial World",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHlsVmppTk5qa3NVZVpPUzROWU40VU1mQ1NSZng5M3FuT1pwUmpVTDZseG0zTEg3TzIwRDhJSjRUVjh2c05ud1pqaEJXdDVLWkFpZ2o0dEg3MXlXZG1HY1dzemVyVGlUQnR2OGQ1a3kwRXdEM0RFbTJva1hqQ1IxYU9LR0U5eG5kbG5BbkFNVk1GeV9LWkRZTGktSVFXbjctandtZURkMGhsOXZzWE53YW9FYWV4LU5WWF96eVpMSUtyQWlYaFFqVEg1LVg?oc=5",
+      "title": "Ministry of SMEs and Startups Holds '2026 Small Business Cooperative Performance-Sharing Conference'",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93dXBHamJJc3l3QkFfLVFTRHRsZkZVUUp2NjVMc25nQ3g0ZG4xWU9kNmdYOF8wNVFOMHlpYUJvZUs1ck9uazkwTjhhLVlZbHBBNE9LTUNGQ2tFejVHVmRkVHotcEJkMDZWX1JBVVAxRFFUbzVS?oc=5",
       "score": 3,
-      "summary": "Bengaluru Tech Summit 2026 puts AI, Deeptech and Robotics at the centre of India’s global tech ambition.",
-      "topics": [
-        "india",
-        "ai-models"
-      ]
-    },
-    {
-      "rank": 26,
-      "title": "Startup of the Week: Green Project Technologies",
-      "source": "TechRound",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZk81ejljRHBjYVNDYUxDV0R0eEliQ2JaV2tMd0JrTGFQbmZycWdzZ2NEOFBVT0djVFU2dFNxNTVCSjd4Mmx6SHkyNUZ0bWtLYW9GMHQ4X19OVkJkN2Q5NTBvUk1KM2E2Z3RWLXNndkNtUGRkSjl3SXRiLWlPbFpCRHNnN3ZoOEU?oc=5",
-      "score": 3,
-      "summary": "Green Project Technologies is the startup of the week.",
+      "summary": "The Ministry of SMEs and Startups held the 2026 Small Business Cooperative Performance-Sharing Conference.",
       "topics": [
         "startups-funding"
       ]
     },
     {
-      "rank": 27,
-      "title": "DXN (ASX:DXN): How Is Its AI Data Centre Order Book Developing After a Contract Change?",
-      "source": "Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOEg3ODd0cVBtSXZYRlI4QTF1X2h3Y0J6Z3hHS2JzRVk3VGw2T2NZM3RSdXlhX3hNUmdDY3dWY0V5ZDlqQlQ4NlFaRDdkanJOZnpDcVJqdUk2RDh2UmFKeW94aHdKazh6dEVORnN3SDVJM2pvT3R1VkVJQzN6RGFvbWhCTlBuMUp1YTdTSWRWeEJMdmJlR0JCUllZTlN3RW5TeEF5NDg4S3l2czZMTFdYNUVReFRVdnpPOWJUYTBHN0R5c3ZmUndRMFpyQTZqdXM?oc=5",
+      "rank": 26,
+      "title": "All eyes on AI: What’s at stake for brands, retailers and clinical trials?",
+      "source": "NutraIngredients.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVlc2MHRNUDFwdFlhOVRKN1JET0JvTlJiTS1taWFFWHFidzlvaEE2UTdLLWFHT3dZZ3MtMzlMUHZGR0hwMXJnV210SFQtekg0Nk92c3RYcThOaFRqd3pkSnhrcUc5VjljOHRtWjZFQXlITHF5NmhodlZQN0dsYVdHYXJVOUVMV3h6dllkd1RUeks2Vy1jUnQxY2ZZYjY2YlBIb3N1NHk4dWYwYU9yMTdhbGxFX2JkMGZBSGlrTzRCZmdKVUFTT2NqT3BmVGQ?oc=5",
       "score": 3,
-      "summary": "DXN is developing its AI data centre order book after a contract change.",
+      "summary": "The stakes for brands, retailers and clinical trials regarding AI are examined.",
       "topics": [
-        "chips-hardware",
         "markets-business"
       ]
     },
     {
-      "rank": 28,
-      "title": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence",
-      "source": "War on the Rocks",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0Y5bFdTbGFaaDhyeWdsVGdxWnZlUTNzSTFMYzd2NWgxXy1neWpFSU1BdWdkSzhwbkFtdGRGR09VR3hPWk5QcGpLYUVwcHlyV1ZLQXF0Y0Y5MGxYejYzS1FTdXlTaVF1VUJHbTZ0UjZZaUJLakpyZGpQZ1lNSEpzTjVlUUZJS1lMZzNyVEhMNGVDNnpPaDAyU0dpaVlhcEVJME04VUxfMV8zMjBDTWhEQS1ZbUlleTBlalE?oc=5",
+      "rank": 27,
+      "title": "MSS to Host European Investor Pitch Event for Deep-Tech Startups in AI, Robotics and More",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BZlYzQS1NZG5lbEdkdzlUU2Q4VTdYWlZvQ041X0UzbWxhaWFVQWZzT3VfcHVIbndGN3oxS0xZUkpJdGNJdWNwMjQzWU5hSDdUX3l2YmdzTlo?oc=5",
       "score": 3,
-      "summary": "The double alignment problem involves civil-military relations in the age of artificial intelligence.",
+      "summary": "MSS will host a European investor pitch event for deep-tech startups in AI and robotics.",
       "topics": [
-        "policy-regulation",
+        "startups-funding",
+        "ai-models"
+      ]
+    },
+    {
+      "rank": 28,
+      "title": "Don’t ask students if they used AI – ask if they did the thinking",
+      "source": "Times Higher Education",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVBfZG9yZXp3QTA4VV9MR1ZaUFpIbDdaMk9RT2M1dUhLMjBSNmU1UW9wRHdlUE5tZmlJWnUwV1R1VmZGSGJEaUtqanFuU3ZxNzVZaXplZFdQNE0xMjBOSm1KaEtqT2hYQmZHNTU0V3ZnZFJtUjU4OHBXMmhWSmE4TFdlX2IteG9VUHF6dHhab3ZfRUdsekRrZjlWWkFGY2tCMUZaaQ?oc=5",
+      "score": 3,
+      "summary": "The debate over whether to ask students if they used AI or if they did the thinking is discussed.",
+      "topics": [
         "research"
       ]
     },
     {
       "rank": 29,
-      "title": "AI must not turn wholesale brokers into order takers, warns Sompo's Jon Monks",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObGhCRDFoMjZPYkQ2bUJPMFBvV3phWWlDRlhoSHJvWlZwdlk2S2Y3VzNkcGtoX2Zud3d1RW8zYWFiZ3A0UVFNMDhDR0hhUnU2OFk0cjAtUk5uT3kydTFSQXNWRElPTWY2M1FvR2FwN2RWcmQyYTZaTjBRSFBGSGkxaGlNZW00LUpVemR6ZGRLakhidmYycGdkUGh6NXRJNU5fQ2pQMGtsTjdua2FMeEhPXzVSNlRRd3NGYlBBX2p1ZFpFak0zNXo1QXdqM2JLZV83Qm9Xb1BUenQxam8?oc=5",
-      "score": 2,
-      "summary": "Sompo's Jon Monks warns that AI must not turn wholesale brokers into order takers.",
+      "title": "Are we jumping the gun when it comes to AI literacy?",
+      "source": "Times Higher Education",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVRNZHdnUFVuYXh2UElBQ0FXR2ZrbUdSQkZual9YYTZxZlEyNU1kUjFDR2YzUkg2X3ZmZ2U0MjVLMG15MlFYTm1kek91ODgyTGxoQlM5X0lKSzdiU0wtcU5IQ0pjUDF6VEtYSkFoYzUzMEtvRmZpSWNkX0ptUkpRdjRxbUF6VjhRcTVYZHJ5Z0ZuZw?oc=5",
+      "score": 3,
+      "summary": "The timing and approach to artificial intelligence literacy are being questioned.",
       "topics": [
-        "markets-business"
+        "research"
       ]
     },
     {
       "rank": 30,
-      "title": "Have I left it too late? Why business owners and entrepreneurs need a personal financial plan from day one",
-      "source": "techSPARK",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzhWLU5pUEtrcG1PVzVmYTlONUVLdDZXeWY5V2lCTzVlcmNVVUVfS0NDbjBrbzRQTGpFVnlWeXU3SjZpc19iT2JvR29GRlVYQ050RDR2MVRHMlBEamxBN0FmQnhOZjY4VEFPdnZCaTNHbTUxUWc5MVVWaFJGZUI5dTB4NS1YcDk2UmhhUlVZMVBkeE54blNDRGwzc2oyWFZrVEtvemhRazF5YnhLVC1VVlZ3eXBjN19sdWVPby02VnU0LXppcEVvMVcwUTNXQ0NKRHFVeFRrNEZURzg?oc=5",
-      "score": 2,
-      "summary": "Business owners and entrepreneurs need a personal financial plan from day one.",
+      "title": "The New Rules for Co-Existing With Artificial Intelligence",
+      "source": "Next Big Idea Club",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbl92dlpTcGlfZFFyV2dPWS14RVF6UzI0ZXBQMjRhc0Q2S0JSM2JPVE5GNWRSOWd1a0o3UC1pREZPNWpDcERZN09FeHlYbTlXaDJTMHhEWWJ0VzJxaU5fZlRNcVZxUU5XeXNHdDlJbVlYZXJIc0VoaGpGUDJNdG9XczVORi0tYWJMQTcyWkxYSF9HN184VEZ5Rm10QVFSbWPSAaQBQVVfeXFMUElIYWFvRXBEUHphdThzT2dBQklvaXZmbWxvYUtMVkd6S0tmRXhka0Exbk1ZQXFkSG1wdVBMblpLbzhpdHE0UGtubERPeXJ0T1lfWlJoN1RVbGE0ZDZVX1hVOTdaVS1Oa2tNY054c0Jtb2RzZHlra1ktVUhCYVZaWkptZEZra1hqZWhFRmxHYkZhWlRMTnVwUFdudjV2RHVMeFF4dE4?oc=5",
+      "score": 3,
+      "summary": "New rules for co-existing with artificial intelligence are outlined.",
       "topics": [
-        "markets-business"
+        "ai-models"
       ]
     },
     {
       "rank": 31,
-      "title": "How leaders can adopt AI without losing human accountability",
-      "source": "thenational.co.za",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalhRdXI3V1hZWFktd3dZamg1d1dhOF9ud0ZFY2Jvem5aUGtYNnFXWHlpM3dySllNMkRxWnUxQm14dkZHdzFjM25WSk5qTTVfeWRuWGFRZWkwNUlRUnlaOVpzWWRLYnFCSWtQUkpOdDZMb0ZNZFMwcnpsZWhnczFqbjYxaFNuRGFHRk05YklrSUdSVzVQS0RBcjlFVUNRa3R1eTFWNk8xZ09VWl9h?oc=5",
-      "score": 2,
-      "summary": "Leaders can adopt AI without losing human accountability.",
+      "title": "Amodei reportedly discussed video games amid AI job losses",
+      "source": "The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkprcnhadVQ3eXh3ZkVXb2c2ek0tamh0TGd1akI0RFhKMElRdFFjYXM4QWlUZWN4YkhjWWJydVdWTXVveHYxbFE4bzV3VDlfV0VVMWN5V091dE14ZjN6TFlvbXRBYmF0bU55MjFsS1hRMEhnVjRMQzhOZEN6a2t2cklIbFV6ZWEtZkdROGhUYThQUVoyQ3c?oc=5",
+      "score": 3,
+      "summary": "Amodei reportedly discussed video games amid job losses related to artificial intelligence.",
       "topics": [
-        "markets-business"
+        "ai-models"
       ]
     },
     {
       "rank": 32,
-      "title": "AI risks could push insurers to their limits",
-      "source": "finews.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRW1SMnFBSFN3bjhqT3NGNGVRNmd5d3dNSDlRcmlwQlJPRFJjNGdNNENHbHBEYnhlOFdqd2tla3FYUDJReW9VWFB6blJpQXhpLTBJNk1DMUN6R1dyczBGZk52OFFaSlBjLURvU2lmRmV0Z3BWRkpMclFUYTdHZFJTcV9hLXlubjYyTnJucWxhS2o2ZHV5M3N4T1UxUGhHbzMxTmY5MVU1UTNESExEbXc0ZV9CYXlqMHptazhBOE5PUmoyaHdtV0NyMzdBX2cxTmZLMjJxQmFR?oc=5",
-      "score": 2,
-      "summary": "AI risks could push insurers to their limits.",
+      "title": "Why getting bigger can help cybersecurity companies fight AI-related threats",
+      "source": "Marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjV5ajNfOWw0S2pEMFByV1E2eENxcDZHaGJtRWMwMjdyTDlnV0RYcWVhYjI2TzFiV05RU0tqaHhrRFFDeHgxa3R2c0hzWm84WWtUUzhSVWdYcDdUcnFXS2xQWV90MmNtTjlDQjdGWVZwRWcxMzJVNUN5emdhMzM5cXkzMHg5V1h2ZU9LeURnLUF3dkptcGJHdlc0Rk91VTFha1A2R1JqUQ?oc=5",
+      "score": 3,
+      "summary": "The role of size in helping cybersecurity companies fight AI-related threats is examined.",
       "topics": [
-        "markets-business",
-        "policy-regulation"
-      ]
-    },
-    {
-      "rank": 33,
-      "title": "A guide to building a business without sacrificing motherhood",
-      "source": "News is My Business",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVJNSF9FSG02d0xHRFNhUF90N3E5Q1dnTTdNOEFEU1JzQzc2eTgtZ204cFdsMmxrRmpFSEZJSlhqSVdyVjViTWJTR0x1YUx6WEt1WFdWUFhzLXRZTzgxejIzbHNXWldKUkE2S2VXNUprR1dUeWN6VDZNY0lEWDhTb2NrblI2YjA?oc=5",
-      "score": 2,
-      "summary": "A guide to building a business without sacrificing motherhood.",
-      "topics": [
+        "security",
         "markets-business"
       ]
     },
     {
-      "rank": 34,
-      "title": "Could AI data centers help with the US senior housing crisis?",
-      "source": "CIO",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnlfZTF5RlF3aFFOT0g5VmpSRXVfNmFfbk9qM0EyaXdibmZlVGxfUTZ5b0JaTFFnWmNBdUlCSzUtMHp3ZVU3VXpaVy1YVDZaV1BoY2NnX0xDeENpQjJJMnhUZndYN016YXRlRzlnSi1qUnQyWWtZNHBuaWZQVC1wX3Zhek1BMkRybmtURk9YMHpMS2VUSlVCUlVuLXNDa3h0eVVF?oc=5",
-      "score": 2,
-      "summary": "AI data centers could help with the US senior housing crisis.",
+      "rank": 33,
+      "title": "World AI Cooperation Organization: A Timeline | Blogs | Nov 23, 2026",
+      "source": "Information Technology and Innovation Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dlE5YUdzbGF2eHd4SUZzWjV1M0oyLVBTTFlxakdvT1M4ZkxuWFBjUGFMLUF5eDVrTWl6ZmZFNG1nbDJUSXNLQkdTbTN3blU5T0d6R2ctVDBNY1BZRzF2Y3ZsUzNpZkU?oc=5",
+      "score": 3,
+      "summary": "A timeline for the World AI Cooperation Organization has been published.",
       "topics": [
-        "chips-hardware"
+        "policy-regulation"
+      ]
+    },
+    {
+      "rank": 34,
+      "title": "Israelis study English for years but struggle to hold a conversation: could AI finally change that?",
+      "source": "Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11TWxJQWxBT01iNXJldm9nOGFyUUJGT1p3c04tTjFVN3hQdmJxN0JGb2Z6RGF2a2ZOd1ZTRW1GQjJkcXJiZFVHdlJVY3BKUGctSGtsbC05VFh0UUEwamZaTnczbjRGNVgtUl9ydQ?oc=5",
+      "score": 2,
+      "summary": "Studies are investigating if artificial intelligence could change how Israelis learn to hold English conversations.",
+      "topics": [
+        "ai-models"
       ]
     },
     {
       "rank": 35,
-      "title": "Market anxiety over the artificial intelligence (AI) industry as a whole has not subsided. Even indi..",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ba3VkRzk3MXFlbGtacmdJXzc1RTBmWDJoN0JseDM5UmtORV9mT194NFNYVnQzV0t0SE1fZTB1VzlydU5ULUtES3JGQjB2SUE?oc=5",
+      "title": "Free food business startup course coming to Tuolumne County for first time",
+      "source": "The Union Democrat",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONktZSEh0Qkhid2c0b3BNb1VvTE1rWDZaYzExOC1MNlpTZXpPVHpfRk85QUJVaXJGYk40SnoweDdlUWxDeUNway12YXJqU0lvNmVlenFPOGVTNG1SOXF1V3pxSjcxNEJpUnNCcjZGYmVFc2E4eHdwdV9Gelp4dC1QdS1BOXJmeFVQaC14Zg?oc=5",
       "score": 2,
-      "summary": "Market anxiety over the artificial intelligence industry has not subsided.",
-      "topics": [
-        "markets-business",
-        "stocks-investing"
-      ]
-    },
-    {
-      "rank": 36,
-      "title": "FROM IDEAS TO IMPACT: Connecting Startups, Investors and Business Leaders at European University Cyprus",
-      "source": "Cyprus Business News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmN4YUpob3FzMzJXYmRxbXVraHVNd19aRVlaQ0VlcDFxSTVVd3RUZnYwcUZaWS1KLURSX2NhTkRvZkZWRUFkcDl2M21zMGg2WmlFai0yU252NkNIUUdtX2FVTmxUempSSVQwcVJPWjlqbHpWZUxrdC1OeldBcFZ2a2VQbVRwdG5MdlNuWm04M0tJX1RJNlpfNmF3cXc0Q2lLNW1BNDU4SWpyWGN2SFprWF9wS3hwUXVDUTRLTGR0ekNwMDRGa1RQRmhYRWhUY1lNSThtNHNR?oc=5",
-      "score": 2,
-      "summary": "European University Cyprus connects startups, investors and business leaders.",
+      "summary": "A free food business startup course is coming to Tuolumne County for the first time.",
       "topics": [
         "startups-funding"
       ]
     },
     {
-      "rank": 37,
-      "title": "Antropic, the developer of the artificial intelligence (AI) model \"Claude,\" has entered the U.S. sto..",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HVlA3VW1ZNW5ZVkdRY09BSFd0b3YzNHk2QmhFYnMxVlJLcTF6X0w2NjljNG9UdjVNbERfZ0RvbWcxRVhRSFExZzJmV2Z3M3c?oc=5",
-      "score": 1,
-      "summary": "Anthropic has entered the U.S. stock market.",
+      "rank": 36,
+      "title": "Congratulations to Intel AI Global Impact Festival Winners",
+      "source": "Intel",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
+      "score": 2,
+      "summary": "Winners of the Intel AI Global Impact Festival have been announced.",
       "topics": [
-        "big-tech",
-        "stocks-investing"
+        "big-tech"
+      ]
+    },
+    {
+      "rank": 37,
+      "title": "The Intelligence In These 10 Business Books Is Anything But Artificial",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYi1fcGRiWDdscnhJdE9lSGlVaTRSbTFxa2l3c1RKRElfNUI2dXZrYWE5dkJGUzJubzlZMHZUTl9vMFlWTmEtaERzZWNIOTdaY1g4b0xUVjF6ODNtaDhHYVdWX29zc253bnE4U05jS1pNMzFtTWpkQWowWjgyY205Tkp3TzdRekRWRzMtX295OEJjTE9pUUdENHZRdXZ1MUlZVHBvQ3huRjl5ZnRrd1A4eHgzNkJVZ2wzakx5UUl3?oc=5",
+      "score": 2,
+      "summary": "Ten business books regarding intelligence that is not artificial are highlighted.",
+      "topics": [
+        "markets-business"
       ]
     },
     {
       "rank": 38,
-      "title": "This Unstoppable Artificial Intelligence (AI) Stock Is Bucking the Tech Sell-Off, but Is It a Buy Right Now?",
-      "source": "The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelNaSU9xTndGSTUyb2FvbDIxTEh4OTZEUDRKSVlMY3Vrczg3S2ZDM2U4aktsc290SDYzRzFKNXY3N1ZIbmpQOHV0UTc1Q1U5RUxMSlBYSk5Tdm1DdnV3dGIwbnhZZl9WZTNUSWJfZ3lJWjExXy1vRDIxT2VVcWJRaU9TeE9ySHphdWVDVDRnYnNPMlItUFQ2TlM1bjlMdElLVWFZRWgzODM2clJUaENrMi1fNGNBemphXzJDeHVNOXRtTlJaVWdR?oc=5",
+      "title": "Live Updates: Huang’s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5",
       "score": 1,
-      "summary": "An artificial intelligence stock is bucking the tech sell-off.",
+      "summary": "Jensen Huang's return to Nvidia sparked a stock rally and lawmaker skepticism.",
       "topics": [
-        "stocks-investing"
-      ]
-    },
-    {
-      "rank": 39,
-      "title": "‘Government did not pay Sarvam directly’: AI startup defends hosting Chinese models",
-      "source": "Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDhKZmkyS2w2bml6ZDhJT0t0VDNVVlQ3YkltdDg1Z0RUNmNIbHppZnRfa0Z4NThZXzlFLVF2b1huNGdhbnBDbDlsSjItUFZoOWZUX0FYNEhJOF9pNjRJMlQzQmJtcFNxYjVfM1dtTWpMYk1VYUdXSGtDS2t0bEdFd0pMZzBrTnRFU0NUaDFNS0ZaZVZ2NUpESXJyWmN1cFFFcmJYQ1M5NVhjdw?oc=5",
-      "score": 1,
-      "summary": "AI startup Sarvam defends hosting Chinese models and states the government did not pay them directly.",
-      "topics": [
-        "india",
-        "ai-models",
+        "stocks-investing",
+        "big-tech",
         "policy-regulation"
       ]
     },
     {
-      "rank": 40,
-      "title": "Databricks names Sandeep Cashyap as Senior Director for India’s Digital Natives Business",
-      "source": "MediaNews4U",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGNGbFFaZ1dyajBoSEZ3UFY0UGIza0tsNmxER3lmdjZvZEp4bmdBVEtxS2hNcGVhc3JFTXZxVHp5S2RtWGp1cWtNMDhUR2xlYjlpWVl6d1pEdTE4Y0FVTGg0Q0M2bFFJSUIzNVFGNTZVOFlyVEhHRG1kak5vZWh1NGpCanBjV01mS0VTb3luLXRocmZlTHZJZk9zSHh1ejh5MHlLSlJxS3Rhcm5xWVJ2VFJBa1JEVnc?oc=5",
+      "rank": 39,
+      "title": "Why Donald Trump believed he needed to get Jensen Huang back on top at AI behemoth Nvidia - People Matters",
+      "source": "HR News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdUdwTk16VG8xWl9yZ3pxMUR6eHN6VklnVzRrYk5nV21NOGhJRDFZQ290enlseUlydVQzQV85dHBCUDlqREdnMEhyb1dFaXVyZURhT3pwVXh1cFdrWEJ5QUlfM0RxLW1zRXRxYy1LVlo5eGYtcEstdFlvaEJGdFRnaVY4UWtGUVFCdTdEOTE4Y2NDNS1CbHM3UTFoRzY0RzhqSlozT0ZiZzRsMmtzT0dBbGRtaEtINUtObkVsZlNpUFZISTRlVHNtdXMxZWhOT0duWmllM093eEQ0Y2df?oc=5",
       "score": 1,
-      "summary": "Databricks names Sandeep Cashyap as Senior Director for India’s Digital Natives Business.",
+      "summary": "Donald Trump believed he needed to get Jensen Huang back on top at Nvidia.",
       "topics": [
-        "india"
+        "big-tech",
+        "chips-hardware"
+      ]
+    },
+    {
+      "rank": 40,
+      "title": "Nvidia’s board was no match for Trump or Jensen Huang’s backers",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbXlUWk5LZ3RuUmVTR1hGMWJTSGZVSVd0Ym81V19tWEI5cTd1RVhydEVPblktZzJoNWltU2VGX3JjUFNoaDdkTHI5LUZraEVxVVR6aldvc0ZTUy1PS3VaZFp6Z0RVdE9XOEJDSFhPYmJsUVZOX2o4MTg2N2w4dVl5SUxyZjRrR2lEcDZKZW9UQWR0S056aVdVb1ZoRGdJamJ3cWpaNC1jY1JhVG1GWFVST2Rwa29NWE9pcXBTTng2SzJ4VndOYmhKQ0pVNEN0aVZOVkpULdIB2gFBVV95cUxPb21TSlU2ZHdLZ1hfVG1LMk9KQ2xFMHU3UTFyTl9jcC0tNmloVkR0UmswQUg3OWF1aWpMSk00SV90eHJuNDBrdVpqeUdMWmd5MDlGUDFMVnRuU1RYNkYwNWdqd0pCT3R0RFlxWlpWdVFXblRCc3Y1MWNIN1hVTDc5MnpvTUxHN0Npd2xHNTVVdE52aHp2bTRxYjloWmFtNmJ3REduTFVDb3JYVFo4ZlE0cnhUMmF6Q1ZzNERVYWNRMTdMaHNmVHJIbDlNUlRZdVRnd0xmaWZUa2RlUQ?oc=5",
+      "score": 1,
+      "summary": "Nvidia’s board faced pressure from Donald Trump or Jensen Huang’s backers.",
+      "topics": [
+        "big-tech",
+        "chips-hardware"
       ]
     }
   ]
